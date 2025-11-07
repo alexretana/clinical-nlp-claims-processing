@@ -1,0 +1,5 @@
+# Ignore secrets in '.env'
+.env
+
+*.chat
+.jupyter_ystore.db
