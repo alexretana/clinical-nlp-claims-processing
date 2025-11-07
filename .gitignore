@@ -3,3 +3,5 @@
 
 *.chat
 .jupyter_ystore.db
+
+/notebooks/.ipynb_checkpoints/
