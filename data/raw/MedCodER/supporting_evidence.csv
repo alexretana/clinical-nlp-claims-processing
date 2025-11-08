@@ -1,0 +1,884 @@
+,Document ID,ICD-10-cm code,Coordinate,Supporting Evidence Text,Start,End
+0,240503191033444EHGFED,J06.9,"(2865, 2959)",His chest x-ray was unremarkable and he has received both doses of the COVID-19 vaccination.,2865,2959
+1,240503191033444EHGFED,J06.9,"(3031, 3150)","• Medical Treatment: I recommend he use Robitussin for cough, as well as ibuprofen or Tylenol if he develops a fever.",3031,3150
+2,240503191033444EHGFED,F32.A,"(3249, 3355)","• Medical Treatment: I offered medication or psychotherapy, but the patient opted to defer at this time.",3249,3355
+3,240503191033444EHGFED,E11.9,"(3373, 3516)","• Medical Reasoning: His blood glucose levels have been well controlled based on home monitoring, but his recent hemoglobin A1c was elevated.",3373,3516
+4,240503191033444EHGFED,E11.9,"(3516, 3584)",• Additional Testing: We will repeat a hemoglobin A1c in 4 months.,3516,3584
+5,240503191033444EHGFED,E11.9,"(3584, 3661)",• Medical Treatment: We will increase his metformin to 1000 mg twice daily.,3584,3661
+6,240503191033444EHGFED,I10,"(3676, 3812)",• Medical Reasoning: He has been compliant with lisinopril and his blood pressures have been well controlled based on home monitoring.,3676,3812
+7,240503191033444EHGFED,I10,"(3864, 3933)",• Medical Treatment: He will continue on lisinopril 20 mg once daily.,3864,3933
+8,240503191033444EHGFED,I10,"(3934, 3960)",This was refilled today.,3934,3960
+9,240503191034168BAEHHG,M06.9,"(2229, 2335)",• Medical Reasoning: The patient has remained active and has been compliant with methotrexate once weekly.,2229,2335
+10,240503191034168BAEHHG,M06.9,"(2377, 2451)",• Medical Treatment: She will continue on methotrexate 2.5 mg once weekly.,2377,2451
+11,240503191034168BAEHHG,I48.91,"(2599, 2673)",• Medical Reasoning: She continues to experience episodes of palpitations.,2599,2673
+12,240503191034168BAEHHG,I48.91,"(2828, 2909)",• Specialist Referrals: We will refer her to cardiology for a cardiac ablation.,2828,2909
+13,240503191034168BAEHHG,K21.9,"(3039, 3095)",• Medical Treatment: Continue on Protonix 40 mg daily.,3039,3095
+14,240503191034168BAEHHG,K21.9,"(3095, 3212)",• Patient Education and Counseling: She could continue with dietary modifications and avoid known dietary triggers.,3095,3212
+15,240503191034914IEDGHD,E11.65,"(2258, 2389)","Albert Powell is a 62-year-old male with a past medical history significant for depression, type 2 diabetes, and kidney transplant.",2258,2389
+16,240503191034914IEDGHD,E11.65,"(2645, 2723)","His recent blood glucose level was 162, and his recent hemoglobin A1c was 8.",2645,2723
+17,240503191034914IEDGHD,E11.65,"(2785, 2845)",• Medical Treatment: Increase Lantus to 20 units at night.,2785,2845
+18,240503191034914IEDGHD,F32.A,"(3192, 3266)",• Medical Treatment: He should continue his current management strategies.,3192,3266
+19,240503191034914IEDGHD,F32.A,"(3267, 3325)",We will hold off on medication and therapy at this time.,3267,3325
+20,240503191034914IEDGHD,Z94.0,"(3575, 3675)",• Medical Treatment: Continue seeing Dr. Reyes for management of his immunosuppression medication.,3575,3675
+21,240503191035602IAFHDG,M81.0,"(1788, 1841)",• Medical Treatment: Continue Fosamax 1 tab per week.,1788,1841
+22,240503191035602IAFHDG,G35,"(1899, 1992)",• Medical Reasoning: The patient is experiencing weakness of the bilateral lower extremities.,1899,1992
+23,240503191035602IAFHDG,G35,"(1993, 2091)",He has been seeing his neurologist on a consistent basis and has been compliant with medication.,1993,2091
+24,240503191035602IAFHDG,M17.11,"(2293, 2357)",A recent right knee x-ray demonstrated some arthritic changes.,2293,2357
+25,240503191044893BCFCEG,L40.50,"(1021, 1070)",Stable on methotrexate and prednisone 1 mg daily.,1021,1070
+26,240617165646170AIBBBE,R01.1,"(2262, 2342)",Diana has a 4/6 systolic murmur at the RUSB with mild radiation to the carotids.,2262,2342
+27,240617165646170AIBBBE,R01.1,"(2845, 2966)",We will order a repeat echocardiogram today to assess overall cardiac structure and function as well as valvular disease.,2845,2966
+28,240617165646170AIBBBE,I49.3,"(3383, 3478)",Her EKG today shows sinus rhythm with frequent PVCs as well as anterior septal infarct pattern.,3383,3478
+29,240617165646170AIBBBE,I49.3,"(3609, 3791)","Depending on results as well as the severity of her aortic stenosis, we will need to consider an ischemic evaluation or possibly a heart monitor to assess the overall burden of PVCs.",3609,3791
+30,240617165646170AIBBBE,I10,"(3890, 3930)",She is taking amlodipine and lisinopril.,3890,3930
+31,240617165646170AIBBBE,E78.5,"(4006, 4034)",She is on simvastatin 20 mg.,4006,4034
+32,240617165646170AIBBBE,E03.9,"(4372, 4447)",She takes levothyroxine for supplementation and will continue this as is.,4372,4447
+33,240617165646170AIBBBE,R42,"(4474, 4503)",She is on meclizine for this.,4474,4503
+34,240617165646915CBDEHD,J45.909,"(1236, 1316)",I do appreciate some faint expiratory wheezing bilaterally in all lung fields.,1236,1316
+35,240617165646915CBDEHD,J45.909,"(1695, 1832)","He will continue to use the albuterol inhaler; however, he should limit its use to when he is experiencing a severe flare-up of symptoms.",1695,1832
+36,240617165646915CBDEHD,J45.909,"(1911, 1985)",I have also prescribed the patient Singulair 10 mg to be taken once daily.,1911,1985
+37,240617165646915CBDEHD,J45.909,"(2046, 2190)",I have also recommended we proceed with an allergy skin test to target what his triggers are in the hope that we can avoid any other management.,2046,2190
+38,240617165647598ICAGCD,S33.5XXA,"(1281, 1372)","I recommend we treat this conservatively with rest, meloxicam, and formal physical therapy.",1281,1372
+39,240617165648352FABFCE,L97.519,"(837, 896)",Skin: Reports right foot ulcer with redness and drainage.,837,896
+40,240617165648352FABFCE,L97.519,"(1590, 1690)",I have recommended that we obtain an ankle brachial index to determine the blood supply in his foot.,1590,1690
+41,240617165648352FABFCE,L97.519,"(1691, 1721)",Debridement will be performed.,1691,1721
+42,240617165648352FABFCE,L97.519,"(1722, 1841)",A prescription for clindamycin 400 mg 2 times per day for 7 days will be provided as he does seem to have an infection.,1722,1841
+43,240617165649125IDBBAC,E11.9,"(1670, 1794)",- Patient Education and Counseling: I encouraged her to keep her appointment with ophthalmology for her diabetic eye exam.,1670,1794
+44,240617165649125IDBBAC,E11.9,"(1794, 1899)",- Medical Treatment: We will keep her on her current dose of metformin and order a repeat hemoglobin A1c.,1794,1899
+45,240617165649125IDBBAC,I10,"(2147, 2216)",- Medical Treatment: We will keep her on her current dose of Norvasc.,2147,2216
+46,240617165649125IDBBAC,M25.571,"(1288, 1344)",- Medical Treatment: X-ray ordered to rule out fracture.,1288,1344
+47,240617165649125IDBBAC,M25.571,"(1345, 1470)",We will place her in an air splint and have her ambulate with crutches to avoid weightbearing until we get the x-ray results.,1345,1470
+48,240617165649125IDBBAC,M25.571,"(1471, 1531)",She will start Naprosyn 500 mg twice daily for pain control.,1471,1531
+49,240617165649125IDBBAC,M25.571,"(1532, 1566)",Continue with ice and elevation.,1532,1566
+50,240617165649837EEEGEE,E11.9,"(1202, 1258)","Regarding his diabetes, his last hemoglobin A1C was 8.",1202,1258
+51,240617165649837EEEGEE,L97.519,"(1648, 1794)","On the right foot, there is a 1 x 2 inch circular wound on the dorsal aspect of the lateral right foot that is just proximal to the 5th MTP joint.",1648,1794
+52,240617165649837EEEGEE,L97.519,"(1795, 1863)",There is some yellow slough present with minimal granulation tissue.,1795,1863
+53,240617165649837EEEGEE,L97.519,"(2328, 2479)","At this time, I have recommended that we obtain an ankle brachial index ABI to determine the blood supply to his foot to see if he can heal this wound.",2328,2479
+54,240617165649837EEEGEE,L97.519,"(2480, 2564)",I have also performed a debridement in the office to remove some of the dead tissue.,2480,2564
+55,240617165649837EEEGEE,L97.519,"(2565, 2702)",I have prescribed a collagenase ointment to be applied to the wound 1 time daily and instructed him to cover with a dry sterile dressing.,2565,2702
+56,240617165650566HCHDBE,S83.421A,"(1944, 2105)","After reviewing the patient's examination and radiographic findings today, his symptoms appear to be consistent with a lateral ligament strain of the right knee.",1944,2105
+57,240617165650566HCHDBE,S83.421A,"(2106, 2179)",I am going to prescribe meloxicam 15 mg once daily for pain and swelling.,2106,2179
+58,240617165650566HCHDBE,S83.421A,"(2180, 2317)",I also put in a referral for physical therapy so he can work on strengthening the muscles around the area and prevent any further injury.,2180,2317
+59,240617165650566HCHDBE,I10,"(2598, 2724)","I'm going to order an echocardiogram for further evaluation, but I want him to continue taking his lisinopril 20 mg for now.",2598,2724
+60,240617165650566HCHDBE,E11.9,"(3116, 3176)","In the meantime, he should continue taking metformin 500 mg.",3116,3176
+61,240617165651353HDHAHI,M51.16,"(1964, 2011)",The MRI of the lumbar spine was reviewed today.,1964,2011
+62,240617165651353HDHAHI,M51.16,"(2078, 2130)",It is associated with some nerve root impingement.,2078,2130
+63,240617165651353HDHAHI,M51.16,"(2078, 2130)",It revealed a disc herniation at the level of the L4-5 vertebrae.,2012,2077
+64,240617165651353HDHAHI,M51.16,"(2331, 2437)","With the patient's consent, we will proceed with a epidural steroid injection into the lumbar spine today.",2331,2437
+65,240617165652105FFDFCH,B19.20,"(1234, 1308)",Medical Reasoning: Her recent blood work revealed a positive HCV antibody.,1234,1308
+66,240617165652105FFDFCH,B19.20,"(1309, 1404)","She does have a history of intravenous drug use, but she has not used drugs in over 15 years.",1309,1404
+67,240617165652105FFDFCH,B19.20,"(1577, 1769)","- Medical Treatment: I'm going to order additional labs including a hepatitis C RNA and HCV genotype to confirm the diagnosis, as well as a Fibroscan to assess the severity of the condition.",1577,1769
+68,240617165652814BAABAI,R51.9,"(1842, 1982)",I have recommended that we obtain an urgent MRI of the brain to evaluate for any other condition that could be contributing to her symptoms.,1842,1982
+69,240617165653535AEIGAC,S16.1A,"(1164, 1258)",Examination of the cervical spine: Positive pain to palpation of the soft tissues of the neck.,1164,1258
+70,240617165653535AEIGAC,S16.1A,"(1306, 1364)","Positive pain with flexion, rotation, and lateral bending.",1306,1364
+71,240617165653535AEIGAC,S16.1A,"(1365, 1394)",Severe pain with extension.,1365,1394
+72,240617165653535AEIGAC,S16.1A,"(1871, 1925)",He will begin taking Motrin 600 mg every 6 to 8 hours.,1871,1925
+73,240617165653535AEIGAC,S16.1A,"(1926, 2003)",A prescription for Flexeril 10 mg every 12 hours as needed was also provided.,1926,2003
+74,240617165653535AEIGAC,S16.1A,"(2110, 2250)",I have also recommended that we obtain an MRI for further evaluation as the patient did not go to the emergency room following his accident.,2110,2250
+75,240617165654293DAABEB,M67.813,"(2123, 2231)",I have recommended that we obtain an MRI of the right shoulder to evaluate for a possible rotator cuff tear.,2123,2231
+76,240617165654293DAABEB,M67.813,"(2232, 2321)",I have also recommended that the patient attend formal physical therapy for 6 to 8 weeks.,2232,2321
+77,240617165655053HAHCEC,M77.11,"(734, 816)",Examination of the right upper extremity: Moderate lateral epicondylar tenderness.,734,816
+78,240617165655053HAHCEC,M77.11,"(817, 860)",Moderate pain with passive range of motion.,817,860
+79,240617165655053HAHCEC,M77.11,"(1662, 1765)",He will apply ice to the elbow for at least 20 minutes 3 times per day to reduce pain and inflammation.,1662,1765
+80,240617165655053HAHCEC,M77.11,"(1830, 1902)",Prescription for Ultram 50 mg once per day was also provided for pain.,1830,1902
+81,240617165655053HAHCEC,M77.11,"(1830, 1902)",Right forearm brace was provided today to help with discomfort.,1766,1829
+82,240617165655053HAHCEC,E11.9,"(2205, 2280)",- Medical Treatment: He will increase his metformin to 1000 mg twice a day.,2205,2280
+83,240617165655053HAHCEC,E11.9,"(2281, 2356)",He will begin home blood sugar monitoring twice a day for the next 2 weeks.,2281,2356
+84,240617165655053HAHCEC,E11.9,"(2357, 2418)","Hemoglobin A1c, CBC, and a Chem-12 test were ordered today.",2357,2418
+85,240617165655053HAHCEC,J45.20,"(2506, 2577)",- Medical Treatment: The patient will continue his Flovent twice a day.,2506,2577
+86,240617165655053HAHCEC,J45.20,"(2578, 2636)",Refill of albuterol provided today to be used as needed.,2578,2636
+87,240617165655745HBGFBH,N20.0,"(1147, 1210)",- Medical Treatment: Urine culture and urinalysis were ordered.,1147,1210
+88,240617165655745HBGFBH,N20.0,"(1211, 1259)",She will be referred to Dr. Harris in urology.,1211,1259
+89,240617165655745HBGFBH,I10,"(1361, 1406)",- Medical Treatment: Continue Norvasc 2.5 mg.,1361,1406
+90,240617165655745HBGFBH,E11.9,"(1646, 1699)",- Medical Treatment: Continue metformin 500 mg daily.,1646,1699
+91,240617165655745HBGFBH,E11.9,"(1700, 1754)",Start daily blood sugar monitoring before each meal.,1700,1754
+92,240617165655745HBGFBH,G47.00,"(1829, 1901)",- Patient Education and Counseling: We discussed proper sleep hygiene.,1829,1901
+93,240617165655745HBGFBH,G47.00,"(1901, 1981)",- Medical Treatment: I have recommended she take 10 mg of melatonin as needed.,1901,1981
+94,240617165656505ABAIDB,J45.20,"(743, 860)","Auscultation of Lungs: Diminished lung sounds throughout with the occasional slight expiratory wheeze, bilaterally.",743,860
+95,240617165656505ABAIDB,J45.20,"(1158, 1251)",Pulmonary function test obtained today is reviewed and findings are consistent with asthma.,1158,1251
+96,240617165656505ABAIDB,J45.20,"(1739, 1800)",Prescribed provided for Flovent 110 mcg 1 puff twice per day.,1739,1800
+97,240617165656505ABAIDB,J45.20,"(1801, 1882)",She can continue using her Ventolin inhaler 2 puffs every 4 to 6 hours as needed.,1801,1882
+98,240617165656505ABAIDB,J45.20,"(1883, 2017)",I have recommended using her albuterol inhaler 1 to 2 puffs and then monitor her breathing prior to taking an additional 1 to 2 puffs.,1883,2017
+99,240617165657393EHFHEG,M51.16,"(1923, 1970)",The MRI of the lumbar spine was reviewed today.,1923,1970
+100,240617165657393EHFHEG,M51.16,"(1971, 2028)",This revealed a disc herniation with nerve impingement.,1971,2028
+101,240617165657393EHFHEG,M51.16,"(2379, 2478)","With the patient's consent, we will proceed with a cortisone injection into the lumbar spine today.",2379,2478
+102,240617165658138CACHGC,M25.561,"(1665, 1745)",- Medical Treatment: X-ray of the right knee was ordered for further evaluation.,1665,1745
+103,240617165658138CACHGC,M25.561,"(1807, 1895)",A prescription for meloxicam 15 mg once a day for pain and swelling was also provided.,1807,1895
+104,240617165658138CACHGC,M25.561,"(1807, 1895)",Referral to physical therapy was provided for strengthening.,1746,1806
+105,240617165658138CACHGC,I10,"(2079, 2147)",- Medical Treatment: He will continue taking lisinopril 20 mg a day.,2079,2147
+106,240617165658877HDGFBA,M06.9,"(471, 527)",Patient reports taking methotrexate 7.5 mg every week.,471,527
+107,240617165658877HDGFBA,R91.1,"(1233, 1388)","CT scan of chest, obtained at an outside facility, is reviewed today and demonstrates a solitary 2 cm nodule in the lateral aspect of the right upper lobe.",1233,1388
+108,240617165658877HDGFBA,R91.1,"(1389, 1435)",It appears the nodule is smooth in appearance.,1389,1435
+109,240617165658877HDGFBA,R91.1,"(2404, 2492)",- Medical Treatment: Pulmonary function test ordered today to obtain patient's baseline.,2404,2492
+110,240617165658877HDGFBA,R91.1,"(2629, 2686)",Nodule will be removed via video assisted thoracoscopy.,2629,2686
+111,240617165658877HDGFBA,R91.1,"(2629, 2686)","PET CT will also be scheduled to determine if the nodule is metabolically active, which can suggest if it is cancerous or inflammatory.",2493,2628
+112,240617165658877HDGFBA,M06.9,"(2742, 2854)",- Patient Education and Counseling: I encouraged the patient to continue to follow up with his rheumatologist.,2742,2854
+113,240617165659628BDBEEF,I10,"(1514, 1571)",Patient reports a history of diabetes and hypertension.,1514,1571
+114,240617165659628BDBEEF,R13.10,"(2696, 2788)",- Medical Reasoning: The patient describes difficulty swallowing when he eats solid foods.,2696,2788
+115,240617165659628BDBEEF,R13.10,"(3175, 3239)",- Medical Treatment: I referred the patient to gastroenterology.,3175,3239
+116,240617165659628BDBEEF,R13.10,"(3240, 3281)",I prescribed Prilosec 20 mg once a day.,3240,3281
+117,240617165659628BDBEEF,E11.9,"(3555, 3614)",- Medical Treatment: Continue metformin 500 mg twice a day.,3555,3614
+118,240617165659628BDBEEF,E11.9,"(3684, 3742)",I referred the patient to ophthalmology for retinopathy.,3684,3742
+119,240617165659628BDBEEF,E11.9,"(3684, 3742)","I ordered another hemoglobin A1c, as well as a kidney function test.",3615,3683
+120,240617165659628BDBEEF,I10,"(3921, 3967)",- Medical Treatment: I refilled the Norvasc.,3921,3967
+121,240617165700296CCEHHI,S82.61XA,"(1337, 1406)",These demonstrate a displaced lateral malleolus at the Weber C level.,1337,1406
+122,240617165700296CCEHHI,S82.61XA,"(1671, 1754)",Recommendation was made for an open reduction internal fixation of the right ankle.,1671,1754
+123,240617165700296CCEHHI,S82.61XA,"(1950, 2013)","In the meantime, I will prescribe meloxicam to reduce swelling.",1950,2013
+124,240617165700296CCEHHI,S82.61XA,"(2066, 2120)",He will be given crutches to assist with ambulation.,2066,2120
+125,240617165700296CCEHHI,S82.61XA,"(2066, 2120)",I recommended he ice and elevate the ankle as well.,2014,2065
+126,240617165701061DEIGDB,G50.0,"(1691, 1781)",- Medical Treatment: A prescription for Tegretol will be sent to the patient’s pharmacy.,1691,1781
+127,240617165701767IDBFBD,M25.561,"(1809, 1870)",MSK: Examination of the right knee: Edema and effusion noted.,1809,1870
+128,240617165701767IDBFBD,M25.561,"(1945, 1964)",Positive Lachman's.,1945,1964
+129,240617165701767IDBFBD,M25.561,"(1945, 1964)",Pain with palpation of the lateral knee.,1871,1911
+130,240617165701767IDBFBD,M25.561,"(1945, 1964)",Decreased flexion and extension.,1912,1944
+131,240617165701767IDBFBD,M25.561,"(2339, 2434)",I have recommended that we obtain an MRI of the right knee to evaluate for a possible ACL tear.,2339,2434
+132,240617165701767IDBFBD,M25.561,"(2435, 2547)","In the meantime, I have advised her to continue taking ibuprofen 600 to 800 mg every 8 hours as needed for pain.",2435,2547
+133,240617165701767IDBFBD,M25.561,"(2548, 2614)",She will also be placed into a brace for increased knee support.,2548,2614
+134,240617165702501BHBCAD,S13.9XA,"(1999, 2043)",I recommended an MRI for further evaluation.,1999,2043
+135,240617165702501BHBCAD,S13.9XA,"(2044, 2132)",I have also prescribed the patient Robaxin 1500 mg every 6 to 8 hours to treat his pain.,2044,2132
+136,240617165702501BHBCAD,S13.9XA,"(2133, 2231)","I have also advised him to utilize ice, a heating pad, IcyHot, or Biofreeze on his neck as needed.",2133,2231
+137,240617165702501BHBCAD,S13.9XA,"(2232, 2317)",I have also provided him with a home exercise program to work on his range of motion.,2232,2317
+138,240617165703234ECGHIA,M1A.90,"(1932, 2016)",Medical Treatment: Continue colchicine 0.6 mg twice a day as needed for flare ups.,1932,2016
+139,240617165703234ECGHIA,M19.90,"(2091, 2160)",We will prescribe meloxicam 15 mg once a day for pain and swelling.,2091,2160
+140,240617165703234ECGHIA,L40.9,"(2176, 2220)",Medical Treatment: Continue steroid cream.,2176,2220
+141,240617165703958DGCGIG,E11.9,"(1598, 1719)","She is still taking metformin twice a day, but does admit to dietary indiscretion with an increase in her sweets intake..",1598,1719
+142,240617165703958DGCGIG,E11.9,"(1720, 1766)",Her most recent hemoglobin A1c was elevated.,1720,1766
+143,240617165703958DGCGIG,E11.9,"(1766, 1820)",• Medical Treatment: Continue metformin twice a day.,1766,1820
+144,240617165703958DGCGIG,E11.9,"(1820, 1959)",• Patient Education and Counseling: I encouraged her to check her fasting blood glucose levels each morning and call them in about 2 weeks.,1820,1959
+145,240617165703958DGCGIG,I10,"(2134, 2194)",• Medical Treatment: Continue lisinopril 10 mg once daily.,2134,2194
+146,240617165704685GAABDC,M25.522,"(2196, 2272)",• Musculoskeletal: Examination of the left elbow reveals erythema and edema.,2196,2272
+147,240617165704685GAABDC,M25.522,"(2333, 2365)",Pain with flexion and extension.,2333,2365
+148,240617165704685GAABDC,M25.522,"(2333, 2365)",Pain to palpation of the left olecranon.,2273,2313
+149,240617165704685GAABDC,M25.522,"(2333, 2365)",Warm to palpation.,2314,2332
+150,240617165704685GAABDC,M25.522,"(2799, 2858)",• Medical Treatment: Initiate meloxicam 15 mg once daily.,2799,2858
+151,240617165704685GAABDC,M25.522,"(2858, 2954)",• Patient Education and Counseling: I encouraged the patient to use a pillow to rest her arm on.,2858,2954
+152,240617165704685GAABDC,M25.522,"(2955, 2983)",She may also ice the area.,2955,2983
+153,240617165704685GAABDC,G40.909,"(3082, 3138)",• Medical Treatment: Continue Keppra 500 mg twice a day.,3082,3138
+154,240617165704685GAABDC,F32.A,"(3178, 3237)",• Medical Reasoning: She reports doing well with therapy.,3178,3237
+155,240617165704685GAABDC,F32.A,"(3237, 3294)",• Medical Treatment: Initiate Lexapro 10 mg once daily.,3237,3294
+156,240617165704685GAABDC,K27.9,"(3317, 3379)",• Medical Reasoning: Her recent endoscopy revealed gastritis,3317,3379
+157,240617165704685GAABDC,K27.9,"(3381, 3450)",Medical Treatment: Continue Protonix 40 mg once daily before meals.,3381,3450
+158,240617165705399BGEDIF,I10,"(388, 428)",She is currently on Norvasc 10 mg daily.,388,428
+159,240617165705399BGEDIF,I10,"(429, 474)",Her blood pressure at home has been over 150.,429,474
+160,240617165705399BGEDIF,Z94.0,"(726, 782)",She is taking all of her immunosuppression medication.,726,782
+161,240617165705399BGEDIF,I10,"(1669, 1759)",• Medical Treatment: carvedilol 25 mg twice a day to help bring her blood pressure down.,1669,1759
+162,240617165706240HECBGI,S33.5A,"(610, 677)",X-rays of the lumbar spine show no obvious signs of acute fracture.,610,677
+163,240617165706240HECBGI,S33.5A,"(866, 898)",I have recommended ice and heat.,866,898
+164,240617165706240HECBGI,S33.5A,"(899, 960)",She will continue with Motrin 800 mg 3 times a day with food.,899,960
+165,240617165707707HCHFDC,A69.20,"(420, 495)","She also notes swollen elbow joints, body aches, bullseye rash, and nausea.",420,495
+166,240617165707707HCHFDC,A69.20,"(2044, 2132)",• Medical Treatment: I am going to prescribe doxycycline 100 mg twice a day for 3 weeks.,2044,2132
+167,240617165707707HCHFDC,A69.20,"(2133, 2237)",I am going to touch base with an infectious disease doctor to ensure nothing else that needs to be done.,2133,2237
+168,240617165707707HCHFDC,I10,"(2389, 2478)",She has been compliant with dietary modifications including limiting her sodium intake.,2389,2478
+169,240617165707707HCHFDC,I10,"(2536, 2598)",• Medical Treatment: She will continue lisinopril 10 mg a day.,2536,2598
+170,240617165707707HCHFDC,I10,"(2625, 2746)",• Patient Education and Counseling: I advised the patient to continue to regularly monitor her blood pressures at home.,2625,2746
+171,240617165707707HCHFDC,E11.9,"(2764, 2902)",• Medical Reasoning: She has noticed intermittent elevations of her blood glucose levels but has been compliant with the use of metformin.,2764,2902
+172,240617165707707HCHFDC,E11.9,"(2976, 3080)",• Additional Testing: I am going to order a hemoglobin A1c to ensure no medication changes are needed.,2976,3080
+173,240617165708443FGCFIH,E11.9,"(2406, 2499)",• Medical Reasoning: Elevated blood glucose and hemoglobin A1c levels based on recent labs.,2406,2499
+174,240617165708443FGCFIH,E11.9,"(2587, 2646)",• Medical Treatment: Initiate metformin 500 mg twice daily.,2587,2646
+175,240617165708443FGCFIH,E11.9,"(2681, 2760)",The patient will be given a glucometer to monitor her glucose levels at home.,2681,2760
+176,240617165708443FGCFIH,E11.9,"(2681, 2760)",Encouraged dietary modifications.,2647,2680
+177,240617165708443FGCFIH,I48.91,"(2851, 2910)",• Medical Treatment: Continue metoprolol 25 mg twice daily.,2851,2910
+178,240617165708443FGCFIH,K21.9,"(3006, 3059)",• Medical Treatment: Continue Protonix 40 mg daily.,3006,3059
+179,240617165709173BHIGEF,S83.92XA,"(1664, 1694)",Views: Four views left knee.,1664,1694
+180,240617165709173BHIGEF,S83.92XA,"(1718, 1797)","Interpretation: There are no fractures, dislocations, or other abnormalities.",1718,1797
+181,240617165709173BHIGEF,S83.92XA,"(2004, 2109)",I am going to refer her to physical therapy and prescribe meloxicam 15 mg once daily to help with pain.,2004,2109
+182,240617165709173BHIGEF,I10,"(2167, 2314)","• Medical Reasoning: Her blood pressure is elevated in office today, but has been well-controlled on Norvasc 5 mg daily based on home monitoring.",2167,2314
+183,240617165709173BHIGEF,E11.9,"(2492, 2611)","• Medical Reasoning: Her hemoglobin a1C is slightly elevated, but her blood glucose levels have been well-controlled.",2492,2611
+184,240617165709173BHIGEF,E11.9,"(2611, 2672)",• Medical Treatment: Continue metformin 500 mg twice a day.,2611,2672
+185,240617165709879EAGGCF,F32.A,"(2062, 2156)",• Medical Reasoning: She is doing well and managing this with medication and weekly therapy.,2062,2156
+186,240617165709879EAGGCF,I10,"(2361, 2424)",• Medical Treatment: Increase lisinopril to 10 mg once daily.,2361,2424
+187,240617165709879EAGGCF,Z47.89,"(2555, 2653)",• Medical Reasoning: She is doing well 2 years postoperatively and is asymptomatic at this time.,2555,2653
+188,240617165710545FAEIEB,J45.40,"(3003, 3058)",Wixela Inhub 250 mcg-50 mcg/dose powder for inhalation.,3003,3058
+189,240617165710545FAEIEB,J45.40,"(3059, 3109)",1 puff 2 times daily in the morning and evening.,3059,3109
+190,240617165710545FAEIEB,J45.40,"(3109, 3132)",Proair HFA as needed.,3109,3132
+191,240617165710545FAEIEB,Z91.010,"(3132, 3151)",EpiPen as needed.,3132,3151
+192,240617165710545FAEIEB,J45.40,"(3151, 3189)",Alvesco 80 mcg 2 puff 2 times daily.,3151,3189
+193,240617165710545FAEIEB,J45.40,"(3303, 3356)",Asthma Control Test (ACT) Results: ACT score is 21.,3303,3356
+194,240617165710545FAEIEB,J45.40,"(4363, 4536)","Her ACT score is 21 today and her spirometry test today was better than it was in 2019, though she recalls that it was smoky from wildfires during her last breathing test.",4363,4536
+195,240617165710545FAEIEB,J30.9,"(4555, 4655)","She will continue to use Zyrtec as needed, primarily during spring and fall and sometimes in summer.",4555,4655
+196,240617165711280BGCHII,I10,"(1036, 1050)",Benicar HCT 40,1036,1050
+197,240617165711280BGCHII,I10,"(1051, 1061)",mg/25 mg,1051,1061
+198,240617165711280BGCHII,I10,"(1061, 1071)",Amlodipine,1061,1071
+199,240617165711280BGCHII,I10,"(1072, 1086)",10 mg daily.,1072,1086
+200,240617165711280BGCHII,I10,"(1560, 1661)",I have added spironolactone to his regimen which will require monitoring of his potassium and sodium.,1560,1661
+201,240617165711280BGCHII,I10,"(2453, 2512)",His maximum salt intake should be 1500 to <2000 mg per day.,2453,2512
+202,240617165711280BGCHII,I10,"(2513, 2616)",He was provided materials to follow the DASH diet and encouraged to meet 30-min of walking most days.,2513,2616
+203,240617165712118EABGBD,K58.9,"(2248, 2380)","I have encouraged dietary and lifestyle modifications as well as starting a neuromodulator, such as Elavil 25 mg at bedtime for IBS.",2248,2380
+204,240617165712118EABGBD,K58.9,"(2381, 2464)",She can use Bentyl 20 mg as needed 30-45 minutes before eating out at a restaurant.,2381,2464
+205,240617165712118EABGBD,K58.9,"(2465, 2510)",She can also use Zofran as needed for nausea.,2465,2510
+206,240617165712118EABGBD,K58.9,"(2511, 2597)","However, I have encouraged her to reduce greasy fatty foods and alcohol consumption.",2511,2597
+207,240617165712893DAGCIE,G91.9,"(672, 789)",A Medtronic Strata programmable shunt in the ventriculoperitoneal configuration programmed at level 2.0 was placed.,672,789
+208,240617165712893DAGCIE,N39.41,"(1785, 1860)",• Genitourinary: Significant for urinary incontinence and wearing a diaper.,1785,1860
+209,240617165712893DAGCIE,G31.84,"(2506, 2611)","Mental status: Tested for recent and remote memory, attention span, concentration, and fund of knowledge.",2506,2611
+210,240617165712893DAGCIE,G31.84,"(2707, 2815)","Of note, he was able to get two of the three memory words with cuing and the third one with multiple choice.",2707,2815
+211,240617165712893DAGCIE,G31.84,"(2707, 2815)",He scored 26/30 on the MMSE when tested with spelling and 25/30 when tested with calculations.,2612,2706
+212,240617165712893DAGCIE,R26.9,"(3027, 3074)",Gait: Tested using the Tinetti assessment tool.,3027,3074
+213,240617165712893DAGCIE,R26.9,"(3075, 3215)",He was tested without an assistive device and received a gait score of 6-8/12 and a balance of score of 12/16 for a total score of 18-20/28.,3075,3215
+214,240617165712893DAGCIE,G91.9,"(3467, 3643)",CT scan of the head from 10/15/2020: It shows a frontal horn span at the level of foramen of Munro of 4.6 cm with a 3rd ventricular contour that is flat with the span of 10 mm.,3467,3643
+215,240617165712893DAGCIE,G91.9,"(3644, 3756)","By my reading, there is a tiny amount of blood in the right frontal region with just a tiny subdural collection.",3644,3756
+216,240617165712893DAGCIE,G31.84,"(3842, 3899)",There is also substantial small vessel ischemic change.,3842,3899
+217,240617165713588CIGEEA,F10.20,"(1838, 1918)",History includes significant alcohol use disorder and mild hypercholesterolemia.,1838,1918
+218,240617165713588CIGEEA,I10,"(1919, 1960)","At last visit on April 16, BP was 130/90.",1919,1960
+219,240617165713588CIGEEA,I10,"(1961, 2097)",After presenting at 150/100 she was prescribed hydrochlorothiazide 12.5 mg by mouth once daily and lisinopril 20 mg by mouth once daily.,1961,2097
+220,240617165713588CIGEEA,F10.20,"(2170, 2236)",I will start her on naltrexone which we have previously discussed.,2170,2236
+221,240617165713588CIGEEA,F10.20,"(2328, 2415)",The potential benefit of alcohol cessation would be highly beneficial to the patient.,2328,2415
+222,240617165714280BAHAIF,Z11.3,"(1541, 1798)","We will screen her today for gonorrhea, chlamydia, trichomoniasis, syphilis, HIV, and hepatitis C. Patient is high risk due to an abnormal pap smear in the past and the recent discovery of her sexual partner having multiple partners for some period of time.",1541,1798
+223,240617165714927IAFBCB,M06.9,"(1729, 1778)",The patient will continue Xeljanz XR 11 mg daily.,1729,1778
+224,240617165714927IAFBCB,M06.9,"(1779, 1825)",He will also continue Celebrex 200 mg daily.,1779,1825
+225,240617165714927IAFBCB,Z79.899,"(1852, 1913)",The patient is currently on the high-risk medication Xeljanz.,1852,1913
+226,240617165714927IAFBCB,M25.561,"(2011, 2069)","He has right knee pain and swelling, with pain level 6/10.",2011,2069
+227,240617165714927IAFBCB,M25.561,"(2152, 2234)","We performed a fluid aspiration of the right knee today, see procedure note above.",2152,2234
+228,240617165714927IAFBCB,M25.561,"(2235, 2315)","A steroid injection to the right knee was given today, see procedure note above.",2235,2315
+229,240617165714927IAFBCB,M25.561,"(2316, 2396)",We will arrange for x-ray of the right knee and refer his to physical therapy.,2316,2396
+230,240617165714927IAFBCB,R60.0,"(2428, 2492)",The patient notes whole right leg swelling since the last visit.,2428,2492
+231,240617165714927IAFBCB,R60.0,"(2577, 2647)","We discussed compression stockings, elevate feet, and a low salt diet.",2577,2647
+232,240617165715654BABFBF,L71.0,"(1927, 2166)","I counseled the patient about the risks and benefits of doxycycline and recommended she resume twice daily application until she reaches full resolution, and at that point she should reduce application to once a day for an additional week.",1927,2166
+233,240617165715654BABFBF,L71.0,"(2290, 2398)",I provided a prescription for Tacrolimus and counseled her on possible side effects of using the medication.,2290,2398
+234,240617165715654BABFBF,L71.0,"(2458, 2492)","Also, use Bruder mask as needed.",2458,2492
+235,240617165715654BABFBF,L71.0,"(2458, 2492)",She will continue with Sulfacetamide face wash once a day.,2399,2457
+236,240617165715654BABFBF,L71.8,"(2528, 2566)",Continue using MetroCream twice daily.,2528,2566
+237,240617165715654BABFBF,L71.8,"(2567, 2685)",I recommended to gently wash her eyelids once daily with a gentle cleanser and try a gentle cream such as Vanicream.,2567,2685
+238,240617165716445DEIDFG,K81.9,"(1101, 1172)",Abdominal ultrasound obtained at an outside facility is reviewed today.,1101,1172
+239,240617165716445DEIDFG,K81.9,"(1173, 1238)",This demonstrates multiple gallstones present in the gallbladder.,1173,1238
+240,240617165716445DEIDFG,K81.9,"(2225, 2354)","- Medical Treatment: Since he has not had any improvement with dietary modifications, I recommend a laparoscopic cholecystectomy.",2225,2354
+241,240617165716445DEIDFG,E11.9,"(2445, 2538)",- Medical Reasoning: The patient is currently managing his diabetes with diet and exercise.,2445,2538
+242,240617165717946IHIAAB,M54.50,"(1830, 1880)",Decreased flexion and extension of the lower back.,1830,1880
+243,240617165717946IHIAAB,M54.50,"(1910, 1962)",Spasm of the paraspinal muscles of the lumbar spine.,1910,1962
+244,240617165717946IHIAAB,M54.50,"(1910, 1962)",Positive straight leg raise.,1881,1909
+245,240617165717946IHIAAB,M54.50,"(2366, 2465)",I would like to obtain an MRI of the lumbar spine to evaluate for a possible acute disc herniation.,2366,2465
+246,240617165717946IHIAAB,M54.50,"(2466, 2530)",I have prescribed the patient meloxicam 15 mg to treat his pain.,2466,2530
+247,240617165717946IHIAAB,M54.50,"(2531, 2613)",He will continue with physical therapy and a referral was provided for this today.,2531,2613
+248,240617165718667AGAHEF,R06.02,"(1442, 1538)","- Medical Treatment: I have ordered a chest x-ray, CT scan, and blood work to be done in the ER.",1442,1538
+249,240617165718667AGAHEF,E11.9,"(1738, 1795)",- Medical Treatment: I have ordered an updated A1c today.,1738,1795
+250,240617165718667AGAHEF,E11.9,"(1796, 1851)",He will increase his metformin to 750 mg twice daily.,1796,1851
+251,240617165718667AGAHEF,I10,"(2158, 2234)","- Medical Treatment: At this time, he will discontinue the use of Norvasc.",2158,2234
+252,240617165719417HGAAFC,M25.561,"(1128, 1185)",MSK: Examination of the right knee: Significant effusion.,1128,1185
+253,240617165719417HGAAFC,M25.561,"(1340, 1400)",Lacking 20-30 degrees of terminal flexion secondary to pain.,1340,1400
+254,240617165719417HGAAFC,M25.561,"(1340, 1400)",Slight ecchymosis.,1186,1204
+255,240617165719417HGAAFC,M25.561,"(1340, 1400)",Pain with palpation at the medial joint line.,1205,1250
+256,240617165719417HGAAFC,M25.561,"(1340, 1400)",Difficulty with passive ROM.,1251,1279
+257,240617165719417HGAAFC,M25.561,"(1340, 1400)",Lacking a few degrees of terminal extension to 115 degrees.,1280,1339
+258,240617165719417HGAAFC,M25.561,"(1703, 1799)",I have recommended that we obtain an MRI of the right knee to evaluate the integrity of the ACL.,1703,1799
+259,240617165719417HGAAFC,M25.561,"(1800, 1880)",I have prescribed the patient meloxicam 15 mg a day to reduce swelling and pain.,1800,1880
+260,240617165719417HGAAFC,M25.561,"(1881, 1984)",We discussed that the patient should utilize ice and activity modification to reduce swelling and pain.,1881,1984
+261,240617165719417HGAAFC,M25.561,"(1985, 2071)",I recommended that he wears a knee immobilizer and use crutches when he is ambulating.,1985,2071
+262,240617165720174FFECBC,M25.521,"(2194, 2276)",MSK: Examination of the right elbow: Moderate tenderness at the medial epicondyle.,2194,2276
+263,240617165720174FFECBC,M25.521,"(2328, 2374)",Pain with flexion and bending the right wrist.,2328,2374
+264,240617165720174FFECBC,M25.521,"(2328, 2374)",Pain with resisted pronation of the right forearm.,2277,2327
+265,240617165720174FFECBC,M25.521,"(2439, 2486)",An x-ray of the right elbow was reviewed today.,2439,2486
+266,240617165720174FFECBC,M25.521,"(3054, 3149)",The patient will wear a sling on her right arm while she is awake to provide increased support.,3054,3149
+267,240617165720174FFECBC,M25.521,"(3150, 3218)",I advised her to ice her right elbow for 20 minutes 3 times per day.,3150,3218
+268,240617165720174FFECBC,M25.521,"(3219, 3285)",She will take ibuprofen 600 mg every 6 hours with food for 1 week.,3219,3285
+269,240617165720174FFECBC,E11.9,"(3511, 3588)",I have encouraged the patient to check and record her blood sugars every day.,3511,3588
+270,240617165720174FFECBC,E11.9,"(3589, 3642)",I will increase her metformin to 1000 mg twice a day.,3589,3642
+271,240617165720174FFECBC,E11.9,"(3886, 3995)",I will also order a hemoglobin A1c test for a more accurate assessment of her long-term blood sugar levels.,3886,3995
+272,240617165720174FFECBC,I10,"(4076, 4134)",I have instructed her to continue taking lisinopril 10 mg.,4076,4134
+273,240617165720174FFECBC,I10,"(4135, 4196)",I also encouraged her to continue with her walking routine.,4135,4196
+274,240617165720862BDGCCH,M54.50,"(707, 782)","Pain to palpation of the midline of the lower back, especially on the left.",707,782
+275,240617165720862BDGCCH,M54.50,"(829, 917)",Mildly positive straight leg rise on the right Positive straight leg rise on the left.,829,917
+276,240617165720862BDGCCH,M54.50,"(1526, 1570)",- Medical Treatment: Low back x-ray ordered.,1526,1570
+277,240617165720862BDGCCH,M54.50,"(1703, 1745)",Prescription for Flexeril also provided.,1703,1745
+278,240617165720862BDGCCH,M54.50,"(1703, 1745)",Referral to physical therapy provided.,1571,1609
+279,240617165720862BDGCCH,M54.50,"(1703, 1745)",He will take 400 mg of ibuprofen up to 3 times per day.,1610,1665
+280,240617165720862BDGCCH,M54.50,"(1703, 1745)",Tylenol can be used for severe pain.,1666,1702
+281,240617165720862BDGCCH,E11.9,"(2055, 2151)",- Medical Treatment: Hemoglobin A1c ordered as he has not had an updated one in almost 5 months.,2055,2151
+282,240617165720862BDGCCH,E11.9,"(2152, 2196)",He will continue with his diet and exercise.,2152,2196
+283,240617165720862BDGCCH,E11.9,"(2197, 2251)",Continue current dose of metformin for the time being.,2197,2251
+284,240617165720862BDGCCH,E11.9,"(2252, 2351)",The patient will be checking his blood sugar in the morning and will log this information for me.,2252,2351
+285,240617165721711FEBBGH,S83.421A,"(1610, 1630)",Positive varus test.,1610,1630
+286,240617165721711FEBBGH,S83.421A,"(2048, 2143)",I have explained to him that his x-rays did not reveal any acute fractures or bony abnormality.,2048,2143
+287,240617165721711FEBBGH,S83.421A,"(2144, 2262)",I have recommended that we treat the patient conservatively with formal physical therapy to strengthen his right knee.,2144,2262
+288,240617165721711FEBBGH,S83.421A,"(2263, 2332)",I have also prescribed the patient meloxicam 15 mg to treat his pain.,2263,2332
+289,240617165722426FIAFCD,M76.61,"(1125, 1148)",Mild pain with flexion.,1125,1148
+290,240617165722426FIAFCD,M76.61,"(1182, 1223)",Severe tenderness to the Achilles tendon.,1182,1223
+291,240617165722426FIAFCD,M76.61,"(1182, 1223)",Positive calcaneal squeeze test.,1149,1181
+292,240617165722426FIAFCD,M76.61,"(1711, 1816)",I will provide him with a referral for formal physical therapy to strengthen his right lower extremities.,1711,1816
+293,240617165722426FIAFCD,M76.61,"(1817, 1890)",I have advised him to take 3 tablets of ibuprofen every 6 hours for pain.,1817,1890
+294,240617165723154HCHFFD,L97.519,"(1160, 1312)","MSK: Examination of the right foot: There is a 1.0 cm x 2.0 cm wound on the dorsal aspect of the lateral right foot, just proximal to the 5th MTP joint.",1160,1312
+295,240617165723154HCHFFD,L97.519,"(1313, 1389)",I do see some yellow slough that is present with minimal granulation tissue.,1313,1389
+296,240617165723154HCHFFD,L97.519,"(1689, 1809)",I have recommended that we obtain an ankle brachial index to determine her blood supply to see if we can heal the wound.,1689,1809
+297,240617165723154HCHFFD,L97.519,"(1810, 1880)","We discussed doing a debridement in office today, which she agreed to.",1810,1880
+298,240617165723154HCHFFD,L97.519,"(1981, 2111)",I have also prescribed the patient collagenase ointment to apply to her wound 1 time per day and cover it with a sterile dressing.,1981,2111
+299,240617165723888EDFIGB,I25.10,"(1263, 1353)",- Medical Treatment: She will continue aspirin 81 mg daily and Brilinta 90 mg twice daily.,1263,1353
+300,240617165723888EDFIGB,I25.10,"(1416, 1527)",I am going to refer her to cardiac rehab for education and to gain confidence to resume exercising regularly.,1416,1527
+301,240617165723888EDFIGB,I25.10,"(1416, 1527)",She will continue Lipitor 80 mg a day and Toprol 50 mg daily.,1354,1415
+302,240617165723888EDFIGB,I50.9,"(1609, 1698)",- Medical Reasoning: A recent echocardiogram revealed a reduced ejection fraction of 35%.,1609,1698
+303,240617165723888EDFIGB,I50.9,"(2059, 2113)",- Medical Reasoning: The patient is retaining fluid.,2059,2113
+304,240617165723888EDFIGB,I50.9,"(2113, 2181)",- Medical Treatment: I am going to prescribe Lasix 40 mg once a day.,2113,2181
+305,240617165723888EDFIGB,I50.9,"(2182, 2220)",I want to add Aldactone 12.5 mg daily.,2182,2220
+306,240617165723888EDFIGB,I10,"(2646, 2699)",- Medical Treatment: Continue lisinopril 20 mg daily.,2646,2699
+307,240617165723888EDFIGB,E11.9,"(2871, 2982)",- Patient Education and Counseling: I encouraged the patient to continue monitoring her blood glucose levels.,2871,2982
+308,240617165723888EDFIGB,E11.9,"(2982, 3038)",- Medical Treatment: Continue metformin as prescribed.,2982,3038
+309,240617165724642GAFAEB,I25.10,"(172, 256)",Patient reports history of stent placement at the left anterior descending artery.,172,256
+310,240617165724642GAFAEB,I25.10,"(390, 481)","Patient reports taking aspirin, Brilinta, fish oil, Crestor, metoprolol 50 mg once a day,",390,481
+311,240617165724642GAFAEB,I25.10,"(1061, 1123)","Slight, 3/6 systolic ejection murmur heard at the left base.",1061,1123
+312,240617165724642GAFAEB,I25.10,"(1142, 1194)",Examination: 1+ non-pitting lower extremity edema.,1142,1194
+313,240617165724642GAFAEB,I25.10,"(1899, 2019)",We also discussed that cardiac rehab will be beneficial in helping him become more active and confident with exercising.,1899,2019
+314,240617165724642GAFAEB,E11.9,"(2716, 2789)",- Medical Reasoning: Patient reports most recent hemoglobin A1c was 16.,2716,2789
+315,240617165724642GAFAEB,F32.A,"(3403, 3468)",- Medical Treatment: Referral to psychiatry was provided today.,3403,3468
+316,240617165725365BCCGBH,J45.909,"(512, 577)","Auscultation of Lungs: Mild end expiratory wheezes, very faint.",512,577
+317,240617165725365BCCGBH,R10.9,"(940, 1024)","This appears to be acute gastritis, likely related to her increased caffeine intake.",940,1024
+318,240617165725365BCCGBH,R10.9,"(1025, 1085)",She has a history of moderately heavy alcohol use as well.,1025,1085
+319,240617165725365BCCGBH,R10.9,"(1270, 1315)",Prescription for Zantac twice daily provided.,1270,1315
+320,240617165725365BCCGBH,E11.9,"(1664, 1740)",- Medical Treatment: Metformin 1000 mg in the morning and 500 mg at night.,1664,1740
+321,240617165725365BCCGBH,E11.9,"(1740, 1779)",Continue home blood sugar monitoring.,1740,1779
+322,240617165725365BCCGBH,J45.909,"(2066, 2113)",- Medical Treatment: Continue on daily Flovent.,2066,2113
+323,240617165725365BCCGBH,J45.909,"(2114, 2145)",Continue albuterol as-needed.,2114,2145
+324,240617165726097DGGIHG,G56.01,"(977, 1073)","Neurological: Reports numbness and tingling in the 1st, 2nd, and 3rd digits on the right hand.",977,1073
+325,240617165726097DGGIHG,G56.01,"(1503, 1646)","I recommend we treat this conservatively with nighttime wrist splinting and ibuprofen, but I want to increase her dose to 600 mg 4 times daily.",1503,1646
+326,240617165726097DGGIHG,G56.01,"(1647, 1724)",I'm also going to order an EMG/Nerve conduction study for further evaluation.,1647,1724
+327,240617165726836GEGEAI,S50.01XA,"(531, 595)","There is swelling about the elbow, as well as mild ecchymosis.",531,595
+328,240617165726836GEGEAI,S50.01XA,"(643, 681)",Bruising noted over the right elbow.,643,681
+329,240617165726836GEGEAI,S50.01XA,"(954, 1023)",His x-ray and exam findings are consistent with an elbow contusion.,954,1023
+330,240617165727539BIHECD,N18.30,"(115, 192)",Patient reports history of hypertension and stage 3 chronic kidney disease.,115,192
+331,240617165727539BIHECD,I50.9,"(869, 940)",Examination: There is trace edema to the bilateral lower extremities.,869,940
+332,240617165727539BIHECD,I50.9,"(1446, 1498)",- Medical Treatment: Continue Bumex 2 mg once daily.,1446,1498
+333,240617165727539BIHECD,I10,"(1754, 1804)",- Medical Treatment: Continue Cozaar 100 mg daily.,1754,1804
+334,240617165727539BIHECD,I10,"(1805, 1838)",Continue Norvasc 5 mg once daily.,1805,1838
+335,240617165727539BIHECD,I10,"(1839, 1896)",Renal artery ultrasound ordered for further evaluation.,1839,1896
+336,240617165728262EDEIGB,S93.401A,"(1971, 2053)","He was advised to keep his right lower extremity elevated, especially when seated.",1971,2053
+337,240617165728262EDEIGB,S93.401A,"(2054, 2099)",He will also continue to ice his right ankle.,2054,2099
+338,240617165728262EDEIGB,S93.401A,"(2256, 2314)",For pain control he can continue to take NSAIDs as needed.,2256,2314
+339,240617165728262EDEIGB,S93.401A,"(2256, 2314)",An Aircast was provided today to help stabilize his ankle.,2100,2158
+340,240617165728262EDEIGB,S93.401A,"(2256, 2314)",He is to also utilize crutches for the next 1 to 2 days followed by weight-bearing as tolerated.,2159,2255
+341,240617165728992ADFGBC,E78.00,"(1387, 1529)","They were also advised to follow a balanced diet with a variety of foods that are low in saturated fat and sugars, as well as remain active.",1387,1529
+342,240617165728992ADFGBC,E78.00,"(1529, 1581)",- Medical Treatment: Full cholesterol panel ordered.,1529,1581
+343,240617165728992ADFGBC,E78.00,"(1653, 1677)",Genetic testing ordered.,1653,1677
+344,240617165728992ADFGBC,E78.00,"(1678, 1714)",Referral to nutritionist provided.,1678,1714
+345,240617165729728FDAHGD,R07.9,"(1794, 1926)","- Medical Treatment: We will have her start a regimen of baby aspirin at 81 mg daily, for which I have sent in a prescription today.",1794,1926
+346,240617165729728FDAHGD,R07.9,"(1927, 2014)",I also sent a prescription for nitroglycerin up to 3 tablets every 5 minutes as needed.,1927,2014
+347,240617165729728FDAHGD,R07.9,"(2015, 2098)","Finally, I am going to have her follow up with cardiology for further evaluation.",2015,2098
+348,240617165729728FDAHGD,E11.9,"(2339, 2498)",- Medical Treatment: I'm going to put in an order for a repeat hemoglobin A1c to check for any needed medication adjustments and have her follow up in 2 weeks.,2339,2498
+349,240617165729728FDAHGD,E11.9,"(2499, 2601)","In the meantime, I want her to continue with metformin 500 mg twice daily and dietary modifications.",2499,2601
+350,240617165729728FDAHGD,I10,"(2749, 2910)",- Patient Education and Counseling: I advised the patient to monitor her blood pressures at home over the next 2 weeks and report her readings to me via MyChart.,2749,2910
+351,240617165729728FDAHGD,I10,"(3174, 3259)",- Medical Treatment: I'm going to have her start hydrochlorothiazide at a low dose.,3174,3259
+352,240617165730480GICIAG,M22.2X2,"(1806, 1859)",Tenderness to palpation of the bilateral retinaculum.,1806,1859
+353,240617165730480GICIAG,M22.2X2,"(1860, 1889)",Positive patellar grind test.,1860,1889
+354,240617165730480GICIAG,M22.2X2,"(2485, 2716)","We discussed treatment options and I have recommended that we begin with conservative treatment in the form of formal physical therapy to increase her lower extremity strength, mobility, and correct any incorrect running mechanics.",2485,2716
+355,240617165730480GICIAG,M22.2X2,"(2764, 2840)",She can continue taking ibuprofen or anti-inflammatories as needed for pain.,2764,2840
+356,240617165731181ACICDH,M51.16,"(2119, 2277)","After reviewing the patient's examination and MRI findings today, I have discussed with the patient that his MRI revealed a herniated disc with radiculopathy.",2119,2277
+357,240617165731181ACICDH,M51.16,"(2426, 2530)","With the patient's consent, we will proceed with a corticosteroid injection into the lumbar spine today.",2426,2530
+358,240617165731907ICCEGE,M25.562,"(1408, 1510)",The plan is to place the patient in a knee immobilizer to provide increased support for the next week.,1408,1510
+359,240617165731907ICCEGE,M25.562,"(1511, 1579)",I have also prescribed the patient tramadol 50 mg to treat her pain.,1511,1579
+360,240617165731907ICCEGE,M25.562,"(1580, 1633)",She can take Tylenol as needed for breakthrough pain.,1580,1633
+361,240617165731907ICCEGE,M25.562,"(1634, 1729)",I have also advised her to ice her left knee 3 to 4 times a day for 20 to 30 minutes at a time.,1634,1729
+362,240617165731907ICCEGE,M25.562,"(1730, 1794)",I have advised her to refrain from running for the next 3 weeks.,1730,1794
+363,240617165732628FGIAGE,I10,"(2557, 2626)",A recent EKG revealed changes from her chronic high blood pressure.,2557,2626
+364,240617165732628FGIAGE,I10,"(2626, 2689)",• Medical Treatment: Increase lisinopril to 40 mg once a day.,2626,2689
+365,240617165732628FGIAGE,I10,"(2689, 2821)",• Patient Education and Counseling: She will continue to check her blood pressures and report them to me through the patient portal.,2689,2821
+366,240617165732628FGIAGE,F32.A,"(2883, 2952)",• Medical Reasoning: The patient is doing well with weekly therapy.,2883,2952
+367,240617165733273IAGDBB,R06.02,"(1844, 1904)",He does have slight expiratory wheezing bilaterally on exam.,1844,1904
+368,240617165733273IAGDBB,R06.02,"(1989, 2128)","• Medical Treatment: I would like to prescribe an albuterol inhaler, 2 puffs every 4 hours as needed for wheezing or shortness of breath.",1989,2128
+369,240617165733273IAGDBB,R06.02,"(2128, 2209)",• Specialist Referral: I have referred him to pulmonology for an asthma workup.,2128,2209
+370,240617165733273IAGDBB,K21.9,"(2264, 2331)",• Medical Treatment: I recommended the patient continue Protonix.,2264,2331
+371,240617165733273IAGDBB,G43.909,"(2393, 2425)",Continue on Imitrex as needed.,2393,2425
+372,240617165733273IAGDBB,G43.909,"(2425, 2506)",• Medical Treatment: I recommended he continue Imitrex as needed for migraines.,2425,2506
+373,240617165734000AGGGFF,R71.8,"(2728, 2792)",• Medical Reasoning: Her recent hemoglobin level was low at 8.2.,2728,2792
+374,240617165734000AGGGFF,R71.8,"(2911, 3027)",Additional Testing: I would like to obtain an endoscopy and colonoscopy to evaluate for gastrointestinal bleeding.,2911,3027
+375,240617165734000AGGGFF,J44.9,"(3198, 3276)",She ceased tobacco use several years ago and continues to abstain from this.,3198,3276
+376,240617165734000AGGGFF,I50.9,"(3560, 3667)","• Medical Treatment: Continue on Toprol and lisinopril, as well as her current dose of Lasix 20 mg a day.",3560,3667
+377,240617165734620GFCDEF,Z47.89,"(1652, 1717)",• Integumentary: Well-healed surgical scars on her right wrist.,1652,1717
+378,240617165734620GFCDEF,I25.10,"(2626, 2744)",• Medical Reasoning: She reports a burning chest pain with exertion approximately 3 times per week for the past month.,2626,2744
+379,240617165734620GFCDEF,I25.10,"(2745, 2821)",Her recent echocardiogram demonstrated a reduced ejection fraction of 45%.,2745,2821
+380,240617165734620GFCDEF,I25.10,"(2821, 2870)",• Medical Treatment: Continue aspirin and Toprol.,2821,2870
+381,240617165734620GFCDEF,I25.10,"(2871, 2907)",Initiate Crestor 20 mg once daily.,2871,2907
+382,240617165734620GFCDEF,I25.10,"(2907, 3008)",• Additional Testing: We will order a cardiac stress test and a lipid panel for further evaluation.,2907,3008
+383,240617165735261CIBCGE,I10,"(1418, 1480)",• Medical Treatment: He will continue lisinopril 5 mg daily.,1418,1480
+384,240617165735261CIBCGE,F32.A,"(1557, 1614)",• Medical Treatment: He will continue Zoloft 50 mg daily.,1557,1614
+385,240617165736048DHDBGI,U07.1,"(1801, 1916)",• Medical Reasoning: The patient presents with upper respiratory symptoms and his COVID-19 test was positive today.,1801,1916
+386,240617165736048DHDBGI,E78.00,"(2253, 2319)",• Medical Reasoning: He is doing well on Crestor 20 mg once a day.,2253,2319
+387,240617165736048DHDBGI,Z95.5,"(2659, 2750)",• Medical Reasoning: He underwent coronary artery bypass grafting approximately 1 year ago.,2659,2750
+388,240617165736724EGFCIF,I25.10,"(2425, 2497)",He has discontinued Plavix but continues with daily aspirin and Crestor.,2425,2497
+389,240617165736724EGFCIF,I25.10,"(2532, 2612)",• Additional Testing: We will order a lipid panel and a repeat echocardiogram.,2532,2612
+390,240617165737444CCBDDE,E11.9,"(2091, 2203)",• Medical Reasoning: She is asymptomatic but her recent lab work demonstrated an elevated hemoglobin A1c of 8.1.,2091,2203
+391,240617165737444CCBDDE,E11.9,"(2204, 2330)","She has been compliant with metformin 1000 mg daily, dietary modifications, and monitoring her blood glucose levels at home.",2204,2330
+392,240617165737444CCBDDE,E11.9,"(2398, 2452)",• Medical Treatment: Continue metformin 1000 mg daily.,2398,2452
+393,240617165737444CCBDDE,E11.9,"(2453, 2486)",Initiate Jardiance 10 mg daily.,2453,2486
+394,240617165737444CCBDDE,I10,"(2691, 2738)",She does monitor her blood pressures at home.,2691,2738
+395,240617165737444CCBDDE,I10,"(2738, 2797)",• Medical Treatment: Continue lisinopril at current dose.,2738,2797
+396,240617165737444CCBDDE,Z47.89,"(2885, 3008)",• Patient Education and Counseling: I encouraged the patient to continue with her physical activity and exercise regimen.,2885,3008
+397,240617165738190DGHGFG,K21.9,"(1627, 1712)",• Medical Reasoning: This is well controlled on Protonix and dietary modifications.,1627,1712
+398,240617165738190DGHGFG,K21.9,"(1712, 1765)",• Medical Treatment: Continue Protonix 40 mg daily.,1712,1765
+399,240617165738920FEGBGE,F32.A,"(2450, 2533)",• Specialist Referrals: I will refer him to psychiatry to engage in talk therapy.,2450,2533
+400,240617165738920FEGBGE,E11.9,"(2623, 2680)",His most recent hemoglobin A1c was elevated at 8 percent.,2623,2680
+401,240617165738920FEGBGE,E11.9,"(2714, 2802)",• Additional Testing: I will order a repeat hemoglobin A1c in the next couple of months.,2714,2802
+402,240617165738920FEGBGE,E11.9,"(2837, 2914)",• Medical Treatment: We will increase his metformin to 1000 mg twice a day.,2837,2914
+403,240617165738920FEGBGE,I10,"(3012, 3059)",Blood pressure is well controlled at this time.,3012,3059
+404,240617165738920FEGBGE,I10,"(3215, 3278)",• Medical Treatment: He will continue lisinopril 20 mg daily.,3215,3278
+405,240617165739756DIHCIC,E11.40,"(2856, 2959)",Sensory Examination: Mildly decreased sensation in the tips of the first and second toes bilaterally.,2856,2959
+406,240617165739756DIHCIC,E11.9,"(2968, 2990)",Hemoglobin A1C 9.9%.,2968,2990
+407,240617165739756DIHCIC,E78.5,"(4029, 4088)",I will continue with atorvastatin as previously prescribed.,4029,4088
+408,240617165739756DIHCIC,E11.9,"(4182, 4257)","Finish current prescription of glimepiride 2 mg, 2 tablets 2 times per day.",4182,4257
+409,240617165739756DIHCIC,E11.9,"(4312, 4367)",Reduce carbohydrate intake overall to improve glycemia.,4312,4367
+410,240617165740515DIDBIH,G56.03,"(2126, 2176)",Tinel’s sign positive at both wrists and elbows.,2126,2176
+411,240617165740515DIDBIH,G56.03,"(2224, 2324)",Mr. Cook is a 60-year-old male referred today for evaluation of numbness and tingling of both hands.,2224,2324
+412,240617165741197DCFDBA,G56.03,"(2535, 2590)",Tinel's sign positive at both wrists and both elbows.,2535,2590
+413,240617165741197DCFDBA,G56.03,"(2911, 2943)",I will schedule her for EMG/NCV.,2911,2943
+414,240617165741971DIBGGE,K21.9,"(2785, 2943)",I recommended dietary and lifestyle modifications like cutting out her known trigger foods and trying to reduce her stress levels to help with her symptoms.,2785,2943
+415,240617165741971DIBGGE,K21.9,"(2943, 3035)",• I prescribed Nexium 40 mg twice daily to replace her current omeprazole 40 mg twice daily.,2943,3035
+416,240617165741971DIBGGE,K21.9,"(3079, 3119)",• I also recommended she undergo an EGD.,3079,3119
+417,240617165742679BGHEHA,K59.00,"(2042, 2071)",MiraLAX as needed by mouth.,2042,2071
+418,240617165742679BGHEHA,K59.00,"(2071, 2102)",Lactulose as needed by mouth.,2071,2102
+419,240617165742679BGHEHA,G82.50,"(2202, 2318)",She believes that her hospitalization was more likely due to her constipation and dysreflexia from her quadriplegia.,2202,2318
+420,240617165743375EFAIHI,L70.0,"(1712, 1831)",There is a mild flare with scattered inflammatory papules and pustules across the upper back and posterior shoulders.,1712,1831
+421,240617165743375EFAIHI,L70.0,"(1837, 2040)","Recommend continuing current treatment regimen for the face with 4-5 % benzoyl peroxide wash twice daily, clindamycin 1% lotion each morning, tretinoin 0.1 % cream each night, and moisturizing sunscreen.",1837,2040
+422,240617165743375EFAIHI,L70.0,"(2041, 2113)",Initiate treatment of PanOxyl 10 % wash to the back daily in the shower.,2041,2113
+423,240617165744029DCEHHG,Z47.89,"(1078, 1241)","Ms. Stephanie Morales is a 44-year-old female seen in clinic today in postoperative follow up, 6 weeks status post right medial knee unicompartmental arthroplasty.",1078,1241
+424,240617165744794BDFGBI,Q60.3,"(3534, 3660)",She has right-sided renal hypoplasia with a small atrophic right kidney discovered incidentally on imaging for abdominal pain.,3534,3660
+425,240617165744794BDFGBI,Q60.3,"(4221, 4337)","Also, on an annual basis I recommend completion of a urinalysis to assess for proteinuria and blood pressure checks.",4221,4337
+426,240617165744794BDFGBI,Q60.3,"(4449, 4599)","It is also recommended that she stay well hydrated, avoiding dehydration, especially while participating in sports, by consuming 2 L of water per day.",4449,4599
+427,240617165744794BDFGBI,Q60.3,"(4449, 4599)",The patient should avoid use of nonsteroidal anti-inflammatory medications and use Tylenol for pain and fever.,4338,4448
+428,240617165745485BBAICA,M54.50,"(1737, 1833)",I recommend that we treat the patient conservatively with formal physical therapy and meloxicam.,1737,1833
+429,240617165746206FHCAFC,H35.3210,"(1009, 1144)",Fluorescein angiography reveals focal areas of leakage in the right eye consistent with neovascular age-related macular degeneration.,1009,1144
+430,240617165746206FHCAFC,H35.3210,"(1534, 1614)",- Medical Treatment: We will proceed with a once-monthly Lucenti's injections.,1534,1614
+431,240617165746912AGEDBF,S93.401A,"(1152, 1259)",MSK: Examination of the right ankle there is edema and erythema on the lateral malleolus on the right side.,1152,1259
+432,240617165746912AGEDBF,S93.401A,"(1367, 1461)","Decreased flexion and extension of the right ankle, as well as internal and external rotation.",1367,1461
+433,240617165746912AGEDBF,S93.401A,"(1367, 1461)",There is associated ecchymosis and a few excoriations.,1260,1314
+434,240617165746912AGEDBF,S93.401A,"(1367, 1461)",Pain with palpation of the right lateral malleolus.,1315,1366
+435,240617165746912AGEDBF,S93.401A,"(1718, 1803)",The plan is to place the patient in an Aircast and provide the patient with crutches.,1718,1803
+436,240617165746912AGEDBF,S93.401A,"(1941, 1974)",She can weight-bear as tolerated.,1941,1974
+437,240617165746912AGEDBF,S93.401A,"(1941, 1974)",I have also prescribed the patient meloxicam 15 mg to treat the pain.,1804,1873
+438,240617165746912AGEDBF,S93.401A,"(1941, 1974)",I have advised her to ice the area for 20 minutes 5 times per day.,1874,1940
+439,240617165747639CIDEGF,I21.11,"(128, 191)",Patient reports stent placement in the right coronary artery.,128,191
+440,240617165747639CIDEGF,I21.11,"(1777, 1918)","- Medical Treatment: The patient is taking a low-dose aspirin, and will continue taking it for life or until he is instructed to discontinue.",1777,1918
+441,240617165747639CIDEGF,I21.11,"(1919, 1957)",Continue Brilinta for at least 1 year.,1919,1957
+442,240617165747639CIDEGF,I21.11,"(1993, 2026)",Continue Toprol 50 mg once a day.,1993,2026
+443,240617165747639CIDEGF,I21.11,"(1993, 2026)",Continue Crestor 40 mg once a day.,1958,1992
+444,240617165747639CIDEGF,I21.11,"(2071, 2190)",He will enroll in cardiac rehab to gain confidence in returning to exercising and for dietary education and counseling.,2071,2190
+445,240617165747639CIDEGF,I21.11,"(2239, 2299)",Repeat echocardiogram ordered to be performed in 6 months.,2239,2299
+446,240617165748267FCHGEC,M25.561,"(2193, 2302)",I recommend we obtain an MRI of the right knee to evaluate for a possible posterior cruciate ligament injury.,2193,2302
+447,240617165748267FCHGEC,M25.561,"(2303, 2406)","In the meantime, I have recommended that the patient be placed in a brace to provide increased support.",2303,2406
+448,240617165748267FCHGEC,M25.561,"(2407, 2528)",I have also recommended that the patient attend formal physical therapy to work on her range of motion and strengthening.,2407,2528
+449,240617165748267FCHGEC,M25.561,"(2529, 2606)",I advised her to ice her right knee a few times a day to reduce the swelling.,2529,2606
+450,240617165749650GGGDEG,R10.9,"(1004, 1069)",Mild to moderate tenderness to palpation in right upper quadrant.,1004,1069
+451,240617165749650GGGDEG,R10.9,"(1070, 1118)",Equivocal Murphy's sign in right upper quadrant.,1070,1118
+452,240617165749650GGGDEG,R10.9,"(1500, 1647)","- Medical treatment: CBC, chem 12, urinalysis, HCG qualitative, and right upper quadrant ultrasound were all ordered and will be performed today.",1500,1647
+453,240617165749650GGGDEG,G43.909,"(2013, 2117)",Refill for sumatriptan was provided today which she can take as needed for breakthrough migraine pain.,2013,2117
+454,240617165749650GGGDEG,I10,"(2350, 2424)",Patient encouraged to continue with her daily blood pressure monitoring.,2350,2424
+455,240617165749650GGGDEG,I10,"(2424, 2502)",- Medical Treatment: Refill for lisinopril 20 mg per day was provided today.,2424,2502
+456,240617165750378BGFCDI,R05.9,"(1680, 1731)",- Medical Treatment: She increase her fluid intake.,1680,1731
+457,240617165750378BGFCDI,R05.9,"(1850, 1881)",I will order a COVID-19 test.,1850,1881
+458,240617165750378BGFCDI,R05.9,"(1850, 1881)",I recommended she try Coricidin HBP as a safer alternative to her cough medicine.,1732,1813
+459,240617165750378BGFCDI,R05.9,"(1850, 1881)",The patient should rest frequently.,1814,1849
+460,240617165750378BGFCDI,E11.9,"(2049, 2127)",- Medical Treatment: We will continue her on her metformin 500 mg twice a day.,2049,2127
+461,240617165750378BGFCDI,E11.9,"(2128, 2182)",Repeat hemoglobin A1c will be due at her next visit.,2128,2182
+462,240617165750378BGFCDI,I10,"(2550, 2640)",- Medical Treatment: We will increase her dose of hydrochlorothiazide to 25 mg once a day.,2550,2640
+463,240617165750378BGFCDI,I10,"(2641, 2738)",She will continue checking her blood pressure a few times a week at different times of the day.,2641,2738
+464,240617165751085IADGGA,M25.512,"(2116, 2218)","We discussed the nature of this condition in detail, and I have ordered an MRI for further evaluation.",2116,2218
+465,240617165751085IADGGA,M25.512,"(2219, 2349)","I'm going to put in a referral for 6 to 8 weeks of physical therapy, during which time she should continue with Tylenol as-needed.",2219,2349
+466,240617165751734ICHDHD,E11.9,"(1054, 1082)",His most recent A1C was 7.2.,1054,1082
+467,240617165751734ICHDHD,E11.9,"(1083, 1197)","He is taking metformin 500 mg daily, however there are days where he skips this because of gastrointestinal upset.",1083,1197
+468,240617165751734ICHDHD,S83.411A,"(1840, 1919)",MSK: Examination of the right knee: Pain with palpation over the medial aspect.,1840,1919
+469,240617165751734ICHDHD,S83.411A,"(2011, 2070)",Negative varus and valgus stress test with firm endpoint.,2011,2070
+470,240617165751734ICHDHD,S83.411A,"(2011, 2070)",Mild pain with flexion and extension.,1920,1957
+471,240617165751734ICHDHD,S83.411A,"(2011, 2070)","Edema, swelling, and ecchymosis noted.",1958,1996
+472,240617165751734ICHDHD,S83.411A,"(2011, 2070)",Mild redness.,1997,2010
+473,240617165751734ICHDHD,E11.9,"(2791, 2922)","In terms of his diabetes, he was advised to start logging his blood sugars daily and to avoid eating large amounts of strawberries.",2791,2922
+474,240617165751734ICHDHD,I10,"(3000, 3115)","For his hypertension, we are going to increase his Norvasc to 5 mg daily as his blood pressures have been elevated.",3000,3115
+475,240617165752473BHFACD,I10,"(98, 186)","Patient reports history of essential hypertension, hyperlipidemia, and osteoarthritis.",98,186
+476,240617165752473BHFACD,I10,"(1626, 1708)",- Medical Treatment: I am going to increase his lisinopril to 60 mg twice per day.,1626,1708
+477,240617165752473BHFACD,I10,"(1709, 1780)",Prescription for 25 mg per day of hydrochlorothiazide provided as well.,1709,1780
+478,240617165752473BHFACD,E78.5,"(2085, 2149)",He will continue the current management with his atorvastatin.,2085,2149
+479,240617165753185IABCCE,I10,"(1138, 1187)",Her lisinopril was increased to 40 mg once a day.,1138,1187
+480,240617165753185IABCCE,I10,"(1243, 1306)",She will also continue monitoring her blood pressure at home.,1243,1306
+481,240617165753185IABCCE,E11.9,"(1431, 1532)",- Patient Education and Counseling: She was provided with diabetic education which she will review.,1431,1532
+482,240617165753185IABCCE,E11.9,"(1532, 1582)",- Medical Treatment: Hemoglobin A1c was ordered.,1532,1582
+483,240617165753833GGECEF,N05.9,"(1348, 1459)",Previous CT scan is reviewed and demonstrates evidence of swelling potentially related to glomerulonephritis.,1348,1459
+484,240617165754515BADHDG,R05.9,"(1951, 2001)",I will prescribe guaifenesin 600 mg twice a day.,1951,2001
+485,240617165754515BADHDG,M25.561,"(2251, 2325)",- Medical Treatment: Prescription for meloxicam 15 mg once a day provided.,2251,2325
+486,240617165754515BADHDG,M25.561,"(2365, 2392)",Right knee x-ray ordered.,2365,2392
+487,240617165754515BADHDG,M25.561,"(2365, 2392)",Referral to physical therapy provided.,2326,2364
+488,240617165754515BADHDG,I10,"(2523, 2581)",- Medical Treatment: Continue lisinopril 20 mg once a day.,2523,2581
+489,240617165754515BADHDG,E11.9,"(2984, 3028)",- Medical Treatment: Hemoglobin A1c ordered.,2984,3028
+490,240617165754515BADHDG,E11.9,"(3063, 3135)",Start blood sugar monitoring and report levels through patient portal.,3063,3135
+491,240617165754515BADHDG,E11.9,"(3063, 3135)",Continue metformin as prescribed.,3029,3062
+492,240617165755216GBADCH,I10,"(1132, 1194)",I encouraged her to monitor her blood pressure 3 times a week.,1132,1194
+493,240617165755216GBADCH,I10,"(1272, 1300)",I recommended a DASH diet.,1272,1300
+494,240617165755216GBADCH,I10,"(1300, 1372)",- Medical Treatment: She will continue her current medication regimen.,1300,1372
+495,240617165755216GBADCH,E11.9,"(1607, 1660)",- Medical Treatment: Increase metformin to 1500 mg.,1607,1660
+496,240617165755936BCGFBG,M51.16,"(2568, 2658)",I have recommended that we start with a spinal corticosteroid injection under fluoroscopy.,2568,2658
+497,240617165756698ADCHCE,M67.813,"(1216, 1294)",MSK: Examination of the right shoulder reveals limited active and passive ROM.,1216,1294
+498,240617165756698ADCHCE,M67.813,"(1295, 1349)",Tenderness over the greater tuberosity of the humerus.,1295,1349
+499,240617165757399EGBCFI,H35.3210,"(560, 684)","Posterior segment shows drusen of the macula, retinal thickening, and presence of subretinal fluid and exudate accumulation.",560,684
+500,240617165757399EGBCFI,H35.3210,"(685, 706)",Positive hemorrhage,685,706
+501,240617165757399EGBCFI,H35.3210,"(2440, 2533)",- Medical Treatment: Lucentis injections once a month with his first being performed today.,2440,2533
+502,240617165758111CGIEBA,M25.511,"(1368, 1430)",Examination of the right shoulder: Mild bruising is present.,1368,1430
+503,240617165758111CGIEBA,S80.01XA,"(1439, 1501)",X-rays of the right knee were obtained and are reviewed today.,1439,1501
+504,240617165758111CGIEBA,S80.01XA,"(1530, 1564)",No bony abnormalities are noted.,1530,1564
+505,240617165758111CGIEBA,S80.01XA,"(1530, 1564)",No fracture is appreciated.,1502,1529
+506,240617165758111CGIEBA,S80.01XA,"(1859, 1961)",I have advised him to rest his right knee and apply ice 2 to 3 times per day for 20 minutes at a time.,1859,1961
+507,240617165758111CGIEBA,S80.01XA,"(1962, 2068)",He can take non-steroidal anti-inflammatory drugs such as ibuprofen every 6 to 8 hours as needed for pain.,1962,2068
+508,240617165758855FGCECA,C34.12,"(1527, 1604)",Recent pathology report showed evidence of a 4.4 cm left upper lobe nodule.,1527,1604
+509,240617165758855FGCECA,C34.12,"(1766, 1866)",- Medical Treatment: Patient will continue on current regimen consisting of Cisplatin and etoposide.,1766,1866
+510,240617165758855FGCECA,C34.12,"(1867, 1904)",Her radiation will remain at 45 Gy.,1867,1904
+511,240617165758855FGCECA,J70.0,"(1952, 2019)",Recent chest x-ray showed evidence of mild radiation pneumonitis.,1952,2019
+512,240617165758855FGCECA,J70.0,"(2211, 2309)",- Medical treatment: A prescription for prednisone 40 mg 1 tablet a day for 5 days was provided.,2211,2309
+513,240617165758855FGCECA,R13.10,"(2642, 2752)",- Medical treatment: Prescription for lidocaine viscous solution to be completed 4 times a day was provided.,2642,2752
+514,240617165759599FHDFBE,N20.2,"(1575, 1633)","CT scan of the right flank was reviewed today, 05/06/2022.",1575,1633
+515,240617165759599FHDFBE,N20.2,"(1634, 1724)","It revealed a kidney stone measuring 0.5 cm in size, located on the proximal right ureter.",1634,1724
+516,240617165759599FHDFBE,N20.2,"(1996, 2083)",I advised him to continue drinking plenty of fluids so he can hopefully pass the stone.,1996,2083
+517,240617165759599FHDFBE,N20.2,"(2179, 2238)",I also prescribed tramadol 50 mg for any breakthrough pain.,2179,2238
+518,240617165759599FHDFBE,N20.2,"(2239, 2344)",His primary care physician provided him with a strainer and I advised him to continue using this as well.,2239,2344
+519,240617165800357GACHIF,I50.9,"(749, 800)",Jugular venous distention up to approximately 9 cm.,749,800
+520,240617165800357GACHIF,I50.9,"(1061, 1135)",Examination of the lower extremities: 1 to 2+ pitting edema bilaterally.,1061,1135
+521,240617165800357GACHIF,I50.9,"(1692, 1781)",- Medical Treatment: The patient will increase his Lasix from 40 mg a day to 80 mg a day.,1692,1781
+522,240617165800357GACHIF,N18.30,"(2453, 2573)",- Patient Education and Counseling: I reminded the patient it is important to routinely follow up with his nephrologist.,2453,2573
+523,240617165800357GACHIF,N18.30,"(2725, 2864)",I also recommended he avoid the use of any anti-inflammatories such as Motrin or Advil as they can contribute to worsening kidney function.,2725,2864
+524,240617165800357GACHIF,N18.30,"(2725, 2864)","I advised him that he should limit intake of any potassium rich foods including bananas, oranges, and potatoes as they can affect his kidney function.",2574,2724
+525,240617165800357GACHIF,I25.10,"(2162, 2283)",- Medical Treatment: Repeat echocardiogram ordered for further evaluation of the heart murmur heard on his physical exam.,2162,2283
+526,240617165914866BIIHGD,I50.21,"(2885, 2935)",• Medical Treatment: Initiate Lasix 40 mg a day.,2885,2935
+527,240617165914866BIIHGD,E10.9,"(3171, 3247)",• Medical Treatment: This is currently stable with use of an insulin pump.,3171,3247
+528,240617165914866BIIHGD,E10.9,"(3247, 3312)",• Additional Testing: I will order a hemoglobin A1c in 1 month.,3247,3312
+529,240617165914866BIIHGD,F32.A,"(3660, 3794)",• Medical Treatment: I will refer him to psychiatry as his current management strategy is unsustainable due to the change in season.,3660,3794
+530,240617165914866BIIHGD,K21.9,"(3958, 4013)",• Medical Treatment: Continue omeprazole 20 mg a day.,3958,4013
+531,240617165915541ABDCHB,S63.610A,"(579, 648)",X-rays of the right index finger show no obvious signs of fracture.,579,648
+532,240617165915541ABDCHB,S63.610A,"(785, 813)",I have recommended a splint.,785,813
+533,240617165915541ABDCHB,S63.610A,"(814, 881)","A prescription is provided for Mobic 15 mg once a day, dispense 14.",814,881
+534,240617165916250IACIAE,M54.9,"(2040, 2112)",Her lumbar spine x-ray was unremarkable and her recent labs were normal.,2040,2112
+535,240617165916250IACIAE,M54.9,"(2149, 2216)",• Medical Treatment: We will initiate meloxicam 15 mg once daily.,2149,2216
+536,240617165916250IACIAE,I10,"(2521, 2583)",• Medical Treatment: She will continue lisinopril 10 mg daily.,2521,2583
+537,240617165917509IGCCHD,F32.A,"(1901, 1960)",• Medical Reasoning: She is doing well with weekly therapy.,1901,1960
+538,240617165917509IGCCHD,I10,"(2217, 2258)",She has been compliant with lisinopril.,2217,2258
+539,240617165917509IGCCHD,I10,"(2258, 2313)",• Medical Treatment: Continue lisinopril 20 mg daily.,2258,2313
+540,240617165918142GGGHEG,M75.42,"(976, 1017)",Positive Hawkins-Kennedy and Neer’s test.,976,1017
+541,240617165918142GGGHEG,M75.42,"(1364, 1504)","Today I discussed conservative options for left shoulder impingement with the patient, who opted to try physical therapy 2 session per week.",1364,1504
+542,240617165918969GCABGH,B34.9,"(107, 220)","Randy Gutierrez is a 9-month-old male who is being evaluated today for a cough, nasal congestion, and rhinorrhea.",107,220
+543,240617165918969GCABGH,B34.9,"(1574, 1647)","Additionally, I suggested trying Zarbee’s for children under 1 years old.",1574,1647
+544,240617165918969GCABGH,B34.9,"(1648, 1717)","If a croup cough develops, the patient will receive a 0.5 teaspoon.",1648,1717
+545,240617165918969GCABGH,L21.0,"(1857, 1916)",The patient is experiencing worsening symptoms of dandruff.,1857,1916
+546,240617165918969GCABGH,L21.0,"(1917, 2037)","I recommended Head and Shoulders shampoo, Selsun Blue, or Nizoral A-D 2 times per week, combined with his usual shampoo.",1917,2037
+547,240617165919653DDHACD,L70.0,"(1354, 1524)","Scattered skin-colored papules, open and closed comedones, and erythematous papules on the face, primarily on the forehead, with also some on the central cheeks and chin.",1354,1524
+548,240617165919653DDHACD,L70.0,"(1788, 1967)",Full skin examination revealed mild to moderate comedonal acne with a small inflammatory component and multiple benign melanocytic nevi of upper and lower extremities and trunk.,1788,1967
+549,240617165919653DDHACD,D22.60,"(1788, 1967)",Full skin examination revealed mild to moderate comedonal acne with a small inflammatory component and multiple benign melanocytic nevi of upper and lower extremities and trunk.,1788,1967
+550,240617165919653DDHACD,L70.0,"(2316, 2394)","Apply a thin layer of topical retinoid, Retin-A 0.1% gel, to acne prone areas.",2316,2394
+551,240617165919653DDHACD,D22.60,"(2795, 2883)",Reassurance given moles are normal in appearance and have no concerning characteristics.,2795,2883
+552,240617165920370CDCIAA,N62,"(428, 560)","Current breast size is a G cup, although she primarily wears a 34 E sports bra for comfort, and desired breast size is a B or C cup.",428,560
+553,240617165920370CDCIAA,N62,"(1029, 1114)",Bra strap grooving in shoulders or indentation on lateral chest wall: Occasionally.,1029,1114
+554,240617165920370CDCIAA,N62,"(1114, 1124)",Neck pain:,1114,1124
+555,240617165920370CDCIAA,N62,"(1125, 1131)",Yes.,1125,1131
+556,240617165920370CDCIAA,N62,"(1131, 1155)",Nipple pain or numbness:,1131,1155
+557,240617165920370CDCIAA,N62,"(1156, 1162)",Yes.,1156,1162
+558,240617165920370CDCIAA,N62,"(1162, 1195)",Paresthesia of the hands or arms:,1162,1195
+559,240617165920370CDCIAA,N62,"(1196, 1202)",Yes.,1196,1202
+560,240617165920370CDCIAA,N62,"(1295, 1311)",Stooped posture:,1295,1311
+561,240617165920370CDCIAA,N62,"(1312, 1318)",Yes.,1312,1318
+562,240617165920370CDCIAA,N62,"(1318, 1359)",Physical activity limited by breast size:,1318,1359
+563,240617165920370CDCIAA,N62,"(1360, 1366)",Yes.,1360,1366
+564,240617165921085FFEHIC,N20.0,"(1560, 1712)",Urinalysis today was notable for only a trace amount of blood and the renal ultrasound revealed a 6 mm non-obstructing renal stone in the left kidney.,1560,1712
+565,240617165921794FCHGBG,I48.91,"(932, 954)",Coumadin 4 mg daily.,932,954
+566,240617165921794FCHGBG,I48.91,"(1145, 1211)","Rhythm is irregularly irregular, S1 slightly accentuated, no S3.",1145,1211
+567,240617165921794FCHGBG,Z48.812,"(1588, 1715)","Mrs. Melissa Sanchez is a 58-year-old female being seen today for a status post mitral valve repair, completed on 08/03/2020.",1588,1715
+568,240624132640294AHBEFH,I50.9,"(1811, 1865)",1+ pitting edema of the bilateral lower extremities.,1811,1865
+569,240624132640294AHBEFH,I50.9,"(2366, 2487)","Her previous year's echocardiogram demonstrated a reduced ejection fraction of 45%, as well as some mitral regurgitation.",2366,2487
+570,240624132640294AHBEFH,I50.9,"(2746, 2826)",We will increase her lisinopril to 40 mg daily and initiate Lasix 20 mg daily.,2746,2826
+571,240624132640294AHBEFH,F32.A,"(2933, 2994)",• Medical Reasoning: She is doing well with weekly therapy.,2933,2994
+572,240624132640294AHBEFH,I10,"(3208, 3293)",• Medical Treatment: We will increase her lisinopril to 40 mg daily as noted above.,3208,3293
+573,240624132640294AHBEFH,I10,"(3390, 3485)",I advised her to monitor her blood pressures at home for the next week and report them to me.,3390,3485
+574,240624132640924IHEEHB,M17.11,"(1770, 1858)",• Musculoskeletal: There is edema and erythema of the right knee with pain to palpation.,1770,1858
+575,240624132640924IHEEHB,M17.11,"(1859, 1888)",Range of motion is decreased.,1859,1888
+576,240624132640924IHEEHB,M17.11,"(1925, 1965)",X-ray of the right knee is unremarkable.,1925,1965
+577,240624132640924IHEEHB,E03.9,"(2985, 3039)",• Additional Testing: We will order a thyroid panel.,2985,3039
+578,240624132640924IHEEHB,E03.9,"(3039, 3081)",• Medical Treatment: Continue Synthroid.,3039,3081
+579,240624132640924IHEEHB,Z94.0,"(3112, 3212)",• Medical Reasoning: He is doing well and has been compliant with his immunosuppressive medications.,3112,3212
+580,240624132640924IHEEHB,Z94.0,"(3213, 3319)","On recent labs, his white blood cell count was within a normal limits and his kidney function is stable.",3213,3319
+581,240624132641577DEBBGA,N20.0,"(2385, 2471)",His recent abdominal x-ray demonstrates what appears to be a recurrent kidney stone.,2385,2471
+582,240624132641577DEBBGA,N20.0,"(2563, 2653)",• Medical Treatment: We will start him on Ultram 50 mg as needed every 6 hours for pain.,2563,2653
+583,240624132641577DEBBGA,N20.0,"(2653, 2759)",• Patient Education and Counseling: I advised the patient to stay well hydrated and to strain his urine.,2653,2759
+584,240624132641577DEBBGA,G43.909,"(2860, 2900)",• Medical Treatment: Continue Imitrex.,2860,2900
+585,240624132641577DEBBGA,K21.9,"(2993, 3049)",• Medical Treatment: Continue with Protonix 40 mg daily.,2993,3049
+586,240624132642369DIHFBD,S33.5XXA,"(1617, 1645)",Positive straight leg raise.,1617,1645
+587,240624132642369DIHFBD,S33.5XXA,"(2328, 2387)",• Medical Treatment: Initiate meloxicam 15 mg once daily.,2328,2387
+588,240624132642369DIHFBD,S33.5XXA,"(2387, 2485)",• Specialist Referrals: We will refer him to physical therapy to work on strengthening the area.,2387,2485
+589,240624132642369DIHFBD,E11.9,"(2503, 2626)","• Medical Reasoning: He has been compliant with metformin and dietary modifications, but his recent hemoglobin A1c was 8.",2503,2626
+590,240624132642369DIHFBD,E11.9,"(2628, 2694)",Additional Testing: Repeat hemoglobin A1c in a couple of months.,2628,2694
+591,240624132642369DIHFBD,E11.9,"(2694, 2759)",• Medical Treatment: Increase metformin to 1000 mg twice daily.,2694,2759
+592,240624132642369DIHFBD,I50.9,"(2945, 3013)",• Medical Treatment: Continue lisinopril 20 mg once daily and Lasix.,2945,3013
+593,240624132643064IHCEAH,S62.642A,"(669, 760)","I recommend a prescription for Tramadol 50 mg every 6 hours as needed for pain, dispense 8.",669,760
+594,240624132643064IHCEAH,S62.642A,"(761, 842)",She is provided a finger splint and will return in 2 weeks for a follow-up x-ray.,761,842
+595,240624132643805CCAIDD,M17.11,"(1962, 2018)",X-ray of the right knee demonstrates residual arthritis.,1962,2018
+596,240624132643805CCAIDD,K21.9,"(2462, 2600)","• Additional Testing: We will order an ultrasound of her right upper quadrant, as well as additional labs, to rule out biliary etiology.",2462,2600
+597,240624132643805CCAIDD,K21.9,"(2600, 2660)",• Medical Treatment: Continue omeprazole 40 mg once daily.,2600,2660
+598,240624132643805CCAIDD,K21.9,"(2660, 2754)",• Patient Education and Counseling: I encouraged her to continue with dietary modifications.,2660,2754
+599,240624132643805CCAIDD,M1A.90,"(2830, 2890)",• Medical Treatment: Continue allopurinol 100 mg once daily.,2830,2890
+600,240624132643805CCAIDD,M17.11,"(3014, 3064)",Physical therapy has also been beneficial for her.,3014,3064
+601,240624132644539CFIAHB,M54.9,"(2227, 2282)",• Medical Treatment: Physical therapy referral ordered.,2227,2282
+602,240624132644539CFIAHB,F32.A,"(2499, 2556)",• Medical Treatment: Increase Prozac to 40 mg once daily.,2499,2556
+603,240624132644539CFIAHB,Z95.1,"(2712, 2756)",• Medical Treatment: Echocardiogram ordered.,2712,2756
+604,240624132644539CFIAHB,Z95.1,"(2757, 2786)",Continue aspirin 81 mg daily.,2757,2786
+605,240624132645254DEBHIH,I50.9,"(1867, 1928)",Musculoskeletal: Trace to 1+ edema in the bilateral ankles.,1867,1928
+606,240624132645254DEBHIH,I50.9,"(1937, 2000)",Echocardiogram demonstrates decreased ejection fraction of 45%.,1937,2000
+607,240624132645254DEBHIH,I50.9,"(2001, 2033)",Moderate mitral regurgitation.,2001,2033
+608,240624132645254DEBHIH,D64.9,"(2315, 2483)","Her recent hemoglobin level was low at 8.2, but she denies any signs of gastrointestinal bleeding or urinary tract bleeding, as well as any abnormal menstrual bleeding.",2315,2483
+609,240624132645254DEBHIH,D64.9,"(2552, 2631)",• Additional Testing: We will order an anemia profile for further evaluation.,2552,2631
+610,240624132645254DEBHIH,D64.9,"(2631, 2762)",• Specialist Referrals: We will refer her back to gastroenterology for repeat evaluation with possible endoscopy and colonoscopy.,2631,2762
+611,240624132645254DEBHIH,I50.9,"(2983, 3111)","• Medical Treatment: We will initiate Lasix 40 mg once daily, and continue with Toprol 50 mg daily and lisinopril 10 mg daily.",2983,3111
+612,240624132645254DEBHIH,I50.9,"(3195, 3281)",I advised her to monitor her daily weights and notify me if these start to increase.,3195,3281
+613,240624132645972CAFDEB,S33.5XXA,"(2018, 2105)",• Additional Testing: We will order a MRI of the lumbar spine for further evaluation.,2018,2105
+614,240624132645972CAFDEB,S33.5XXA,"(2105, 2213)","• Medical Treatment: Initiate meloxicam 15 mg once daily, as well as Ultram 50 mg every 4 hours as needed.",2105,2213
+615,240624132645972CAFDEB,S33.5XXA,"(2213, 2325)",• Specialist Referrals: We will refer him to physical therapy to be started after we get his MRI results back.,2213,2325
+616,240624132648151AICHDI,R07.9,"(1624, 1721)","His EKG from the emergency room was normal, but ejection fraction on echocardiogram was abnormal.",1624,1721
+617,240624132648151AICHDI,I10,"(1969, 2064)",• Medical Treatment: We will change his blood pressure regimen to carvedilol 25 mg twice a day.,1969,2064
+618,240624132648151AICHDI,I10,"(2065, 2174)",He should also continue lisinopril 10 mg a day and I want to see how his blood pressure does on that regimen.,2065,2174
+619,240624132648151AICHDI,I10,"(2175, 2289)",I also recommended cardiac catheterization on him to make sure that he does not have any blockages in his heart.,2175,2289
+620,240624132649244ABBFBI,J45.909,"(1741, 1773)",Bilateral expiratory wheezing.,1741,1773
+621,240624132649244ABBFBI,J45.909,"(2152, 2258)","His symptoms are exacerbated during warmer weather, but his recent pulmonary function tests were normal.",2152,2258
+622,240624132649244ABBFBI,J45.909,"(2258, 2336)","• Medical Treatment: Continue on albuterol, 2 puffs every 4-6 hours as needed.",2258,2336
+623,240624132649244ABBFBI,J45.909,"(2337, 2420)",Add Symbicort 2 puffs twice a day during the summer to help prevent exacerbation.,2337,2420
+624,240624132649244ABBFBI,F32.A,"(2524, 2646)","• Medical Treatment: We will start him on a different medication, Zoloft 25 mg once a day, to see how he tolerates this.",2524,2646
+625,240624132649244ABBFBI,E11.9,"(2686, 2749)",Recent blood glucose levels and hemoglobin A1c were elevated.,2686,2749
+626,240624132649244ABBFBI,E11.9,"(2751, 2805)",Additional Testing: Repeat hemoglobin A1c in 3 months.,2751,2805
+627,240624132649244ABBFBI,E11.9,"(2857, 2930)",• Medical Treatment: We will increase metformin to 1000 mg twice a day.,2857,2930
+628,240624132650140DDBCBG,E11.9,"(1650, 1740)","His past hemoglobin A1c levels have been borderline high, but his most recent level was 8.",1650,1740
+629,240624132650140DDBCBG,E11.9,"(1741, 1800)",His blood glucose level is also elevated in clinic today.,1741,1800
+630,240624132650140DDBCBG,E11.9,"(1802, 1846)",Additional Testing: Repeat hemoglobin A1c.,1802,1846
+631,240624132650140DDBCBG,E11.9,"(1846, 1907)",• Medical Treatment: Continue metformin 500 mg twice daily.,1846,1907
+632,240624132650140DDBCBG,G40.909,"(2033, 2090)",• Medical Treatment: Continue Keppra at current dosage.,2033,2090
+633,240624132651218IGGHAD,I50.9,"(1450, 1535)",ECG revealed left ventricular hypertrophy consistent with congestive heart failure.,1450,1535
+634,240624132651218IGGHAD,I50.9,"(1535, 1601)",Echocardiogram demonstrates stable diminished ejection fraction.,1535,1601
+635,240624132651218IGGHAD,I50.9,"(2010, 2071)",• Medical Treatment: I will prescribe Lasix 80 mg once a day.,2010,2071
+636,240624132651218IGGHAD,I50.9,"(2072, 2128)",I will also place him on carvedilol 25 mg twice a day.,2072,2128
+637,240624132652081DBHAGE,J44.9,"(1362, 1449)",• Medical Reasoning: The patient presents today with shortness of breath with exertion.,1362,1449
+638,240624132652081DBHAGE,J44.9,"(1450, 1597)",Her pulmonary function tests suggest asthma or COPD and her most recent chest x-ray and physical examination today are also consistent with COPD.,1450,1597
+639,240624132652081DBHAGE,J44.9,"(1698, 1779)","• Medical Treatment: We will start the patient on Combivent, 2 puffs twice a day.",1698,1779
+640,240624132652081DBHAGE,J44.9,"(1780, 1873)","I will also prescribe an albuterol inhaler, 2 puffs as needed, and a prednisone taper pack.",1780,1873
+641,240624132652081DBHAGE,F32.A,"(2030, 2063)",She will keep taking the Effexor.,2030,2063
+642,240624132652081DBHAGE,F32.A,"(2064, 2147)",I encouraged her to practice yoga for depression relief as well as her back pain.,2064,2147
+643,240624132652081DBHAGE,M54.9,"(2284, 2338)",• Medical Treatment: She can continue Neurontin as is.,2284,2338
+644,240624132652081DBHAGE,M54.9,"(2339, 2398)",I also encouraged her to practice yoga for her back pain.,2339,2398
+645,240624132653053AHAABH,I10,"(2835, 2890)",• Medical Treatment: Increase Norvasc to 10 mg daily.,2835,2890
+646,240624132653053AHAABH,Z47.89,"(3061, 3112)",• Medical Treatment: Continue with home exercise.,3061,3112
+647,240624132654152FEGCFD,S80.11XA,"(482, 585)",Examination of the right leg shows significant tenderness to the lateral aspect of the right upper leg.,482,585
+648,240624132654152FEGCFD,S80.11XA,"(861, 903)",I have recommended Mobic 15 mg once a day.,861,903
+649,240624132654152FEGCFD,S80.11XA,"(904, 930)",She will use ice for pain.,904,930
+650,240624132655069DCHFDE,S42.294A,"(679, 680)",X,679,680
+651,240624132655069DCHFDE,S42.294A,"(706, 778)",", 2 views, obtained on today's visit show a proximal humerus fracture.",706,778
+652,240624132655069DCHFDE,S42.294A,"(706, 778)",-rays of the right humerus,680,706
+653,240624132655069DCHFDE,S42.294A,"(911, 974)",I have recommended we place her into a long arm cast and sling.,911,974
+654,240624132655069DCHFDE,S42.294A,"(1082, 1169)","I will prescribe Lortab, 5 mg, #20 (twenty) to take every 6 hours as needed for pain.",1082,1169
+655,240624132656060DCIIFA,M77.11,"(437, 513)",Examination of the right elbow shows tenderness over the lateral epicondyle.,437,513
+656,240624132656060DCIIFA,M77.11,"(546, 591)",Pain with flexion and extension of the elbow.,546,591
+657,240624132656060DCIIFA,M77.11,"(546, 591)",Swelling and redness are noted.,514,545
+658,240624132656060DCIIFA,M77.11,"(890, 929)",I have recommended a sling for comfort.,890,929
+659,240624132656060DCIIFA,M77.11,"(982, 1036)","I will prescribe Motrin, 800 mg to take every 6 hours.",982,1036
+660,240624132656060DCIIFA,M77.11,"(982, 1036)",We discussed ice and anti-inflammatory medications.,930,981
+661,240624132657129GGFHFI,D64.9,"(1743, 1827)","• Medical Reasoning: His hemoglobin was 8.2, which is low for his height and weight.",1743,1827
+662,240624132658142EFCGEC,R79.89,"(1921, 1931)",ALT 128.,1921,1931
+663,240624132658142EFCGEC,R63.5,"(2859, 2972)","I advised her to follow a low carbohydrate, low cholesterol, abstain from alcohol, and reduce fatty foods diet.",2859,2972
+664,240624132658142EFCGEC,L70.0,"(3029, 3125)",The patient will try benzoyl peroxide and Clindamycin separately to see if the price improves.,3029,3125
+665,240624132658142EFCGEC,E55.9,"(3147, 3270)",The patient will complete the high dose vitamin D and then should start vitamin D 2000 IU per day to maintain her levels.,3147,3270
+666,240624132658142EFCGEC,E03.9,"(2196, 2249)",The patient will again attempt to initiate Unithroid.,2196,2249
+667,240624132659115CEAHEH,M65.321,"(2649, 2703)",MRI of the right index finger performed on 04/24/2021.,2649,2703
+668,240624132659115CEAHEH,M65.321,"(2704, 2914)","Independent review of the images shows focal soft tissue swelling over the right index MCP joint, partial-thickness tear of the right FDS, and fluid consistent with tenosynovitis around the FDP and FDS tendons.",2704,2914
+669,240624132659115CEAHEH,M65.321,"(3966, 4100)",Treatment options were discussed including conservative management with corticosteroid injections and their statistical effectiveness.,3966,4100
+670,240624132659115CEAHEH,M65.321,"(4373, 4564)",I also recommend that the patient report to occupational therapy once a week for the next 6 weeks to work on full active and passive right index finger range of motion with no restrictions.,4373,4564
+671,240624132700039ECGACE,E29.1,"(1777, 1877)","Cialis 5 mg tablet by mouth on days he exercises, 2.5 mg tablet by mouth on days without exercise.",1777,1877
+672,240624132700039ECGACE,E29.1,"(1877, 1914)",Finasteride 5 mg half tablet daily.,1877,1914
+673,240624132700039ECGACE,E29.1,"(1914, 1946)",Testosterone cypionate 140 mg.,1914,1946
+674,240624132701039CIDCGD,Z48.817,"(823, 895)",Bilateral breast incisions well healed with widening of the scar tissue.,823,895
+675,240624132701039CIDCGD,Z48.817,"(1158, 1217)",Obtain bilateral breast photos today to monitor scarring.,1158,1217
+676,240624132701039CIDCGD,Z48.817,"(1217, 1287)",- Continue Mederma scar gel and incisional scar massage twice daily.,1217,1287
+677,240624132702052ABFDEH,I50.32,"(1971, 2004)",Torsemide 20 mg by mouth daily.,1971,2004
+678,240624132702052ABFDEH,E11.9,"(3150, 3220)","A1c is 5.5 on last check, so there is no need for a further A1c today.",3150,3220
+679,240624132704050GBFCHI,Z98.890,"(601, 711)","Of note, the patient underwent an aortic valve replacement and ascending aortic aneurysm repair on 01/22/2013.",601,711
+680,240624132704050GBFCHI,Z98.890,"(2602, 2645)",- Ordered echocardiogram and stress test.,2602,2645
+681,240624132704050GBFCHI,R79.89,"(2812, 2861)",- Ordered an alkaline phosphatase and gamma GT.,2812,2861
+682,240624132704050GBFCHI,N50.9,"(3212, 3245)",- 2 to 3 mm nodule noted on exam.,3212,3245
+683,240624132704050GBFCHI,N50.9,"(3276, 3331)",- Referral placed to urology for possible ultrasound.,3276,3331
+684,240624132705112IFAIIH,K59.00,"(3115, 3255)","The most likely etiology of his abdominal pain is constipation given his history, exam with increased stool burden, and normal abdominal CT.",3115,3255
+685,240624132705112IFAIIH,R16.0,"(3256, 3409)",Mild hepatomegaly was also noted on exam today and the patient reportedly had elevated liver enzymes on labs with his primary care provider 4 months ago.,3256,3409
+686,240624132705112IFAIIH,K59.00,"(3580, 3700)",Start daily fiber supplement and increase water consumption to at least 48 ounces daily to help with bowel regularity.,3580,3700
+687,240624132705112IFAIIH,R16.0,"(3781, 3814)",Repeat liver enzyme labs today.,3781,3814
+688,240624132705112IFAIIH,R16.0,"(3814, 3866)",• Schedule a liver ultrasound pending lab results.,3814,3866
+689,240624132705112IFAIIH,R16.0,"(3866, 3910)",• Encouraged to cease alcohol consumption.,3866,3910
+690,240624132706066IIBGED,C43.59,"(1609, 1619)",Pathology:,1609,1619
+691,240624132706066IIBGED,C43.59,"(1620, 1710)","Shave biopsy of right inferior back malignant melanoma, invasive, superficial spreading.",1620,1710
+692,240624132706066IIBGED,C43.59,"(2691, 2794)","If the ultrasound is normal, the patient is a candidate for a wide local excision with a 1-2 cm margin.",2691,2794
+693,240624132706803CHDBAE,N60.02,"(2139, 2197)",Physical exam indicated stable breast density bilaterally.,2139,2197
+694,240624132706803CHDBAE,N60.02,"(2250, 2367)",The plan is to continue close monitoring and the patient will be referred to breast specialist for additional review.,2250,2367
+695,240624132706803CHDBAE,N60.02,"(2250, 2367)",The patient is being seen regularly for monitoring.,2198,2249
+696,240624132707417BFFCCE,Z85.3,"(3206, 3292)",The patient is status post lumpectomy with removal of 5 lymph nodes which were benign.,3206,3292
+697,240624132707417BFFCCE,Z85.3,"(3293, 3370)",She also underwent adjuvant radiation therapy but declined endocrine therapy.,3293,3370
+698,240624132707417BFFCCE,Z85.3,"(3371, 3459)",Today’s clinical examination shows no evidence of recurrent disease or other malignancy.,3371,3459
+699,240624132708072GGDDFI,M16.11,"(3107, 3305)",MR arthrogram of the right hip completed on 06/03/2021 reveals evidence of high-grade chondromalacia involving the anterosuperior right acetabulum with subchondral marrow edema and cyst formation.,3107,3305
+700,240624132708072GGDDFI,M16.11,"(3560, 3638)",She would like to proceed with a cortisone injection into her right hip joint.,3560,3638
+701,240624132708782FBDBFB,N25.561,"(623, 726)",- Range of Motion: Limited range of motion as well as pain on both flexion and extension of the knee.,623,726
+702,240624132708782FBDBFB,N25.561,"(994, 1081)","We discussed treatment options today including bracing, anti-inflammatories, and icing.",994,1081
+703,240624132708782FBDBFB,N25.561,"(1082, 1181)",- Medical Treatment: I am going to put her in a straight leg brace and I will prescribe some Mobic.,1082,1181
+704,240624132708782FBDBFB,E11.9,"(1507, 1611)",- Medical Treatment: I am also going to get a refill on the metformin that she has been taking 500 mg.,1507,1611
+705,240624132708782FBDBFB,E11.9,"(1613, 1678)",Additional Testing: We are going to recheck her hemoglobin A1c.,1613,1678
+706,240624132709444IBBIID,M25.512,"(1269, 1339)",MSK: Examination of the left shoulder: Limited active and passive ROM.,1269,1339
+707,240624132709444IBBIID,M25.512,"(1340, 1394)",Tenderness over the greater tuberosity of the humerus.,1340,1394
+708,240624132709444IBBIID,M25.512,"(2012, 2125)",I have recommended that we obtain an MRI of the left shoulder to evaluate for possible rotator cuff tendinopathy.,2012,2125
+709,240624132709444IBBIID,M25.512,"(2126, 2194)",The patient was provided with a referral to formal physical therapy.,2126,2194
+710,240624132709444IBBIID,M25.512,"(2276, 2335)",I have also advised him to take Tylenol as needed for pain.,2276,2335
+711,240624132711038EHEFAE,I50.9,"(143, 171)",Patient reports taking Bumex,143,171
+712,240624132711038EHEFAE,I50.9,"(172, 240)","2 mg once daily, Cozaar 100 mg daily, and Norvasc 5 mg once daily.",172,240
+713,240624132711038EHEFAE,I50.9,"(787, 920)","Echocardiogram reveals a preserved ejection fraction of 55%, abnormal diastolic filling, and mild-to-moderate mitral regurgitation.",787,920
+714,240624132711038EHEFAE,I50.9,"(1435, 1492)",- Medical Treatment: Continue with Bumex 2 mg once daily.,1435,1492
+715,240624132711038EHEFAE,I50.9,"(1493, 1596)",Referral placed for consult with a nutritionist for education and recommendations regarding her diet.,1493,1596
+716,240624132711038EHEFAE,I10,"(1829, 1918)",- Medical Treatment: She can continue on Cozaar 100 mg daily and Norvasc 5 mg once daily.,1829,1918
+717,240624132711038EHEFAE,I10,"(1919, 2006)",Renal artery ultrasound ordered to rule out any issues such as renal artery stenosis.,1919,2006
+718,240624132712057DIAHGE,G56.03,"(1346, 1380)",Positive Tinel sign bilaterally.,1346,1380
+719,240624132712057DIAHGE,G56.03,"(1748, 1824)",I also recommended that he wear a wrist splint to provide increased support.,1748,1824
+720,240624132712057DIAHGE,G56.03,"(1825, 1878)",I advised him to take ibuprofen 600 mg every 6 hours.,1825,1878
+721,240624132712057DIAHGE,G56.03,"(1879, 1998)","Additionally, I recommended we obtain an EMG of the bilateral upper extremities to evaluate for carpal tunnel syndrome.",1879,1998
+722,240624132713047IHHFEI,M77.02,"(1364, 1445)",Examination of the right elbow: Limited range of motion with extension with pain.,1364,1445
+723,240624132713047IHHFEI,M77.02,"(1491, 1533)",Pain to palpation along the medial aspect.,1491,1533
+724,240624132713047IHHFEI,M77.02,"(1491, 1533)",Full range of motion with flexion with pain.,1446,1490
+725,240624132713047IHHFEI,M77.02,"(1638, 1752)",Examination of the left elbow: minimal pain with flexion and extension Slight Limited ROM on extension of the arm.,1638,1752
+726,240624132713047IHHFEI,M77.02,"(1753, 1774)",Pain with supination.,1753,1774
+727,240624132713047IHHFEI,M77.02,"(2138, 2206)",I want to get an MRI of the bilateral elbows for further evaluation.,2138,2206
+728,240624132714030FHFGFG,B19.20,"(1608, 1726)","Liver panel revealed an elevated AST at 39 U/L. The ALT, albumin, and total bilirubin were all within normal limits.",1608,1726
+729,240624132714030FHFGFG,B19.20,"(1891, 1953)",His initial labs were consistent with a hepatitis C diagnosis.,1891,1953
+730,240624132714030FHFGFG,B19.20,"(1954, 2086)",I have recommended that we confirm the diagnosis with additional blood work including checking his hepatitis C RNA and HCV genotype.,1954,2086
+731,240624132714030FHFGFG,B19.20,"(2087, 2193)",I have also recommended that we obtain an ultrasound elastography to evaluate for fibrosis of the liver.,2087,2193
+732,240624132715029CHBICA,I10,"(1604, 1657)",- Medical Treatment: Renal artery ultrasound ordered.,1604,1657
+733,240624132715029CHBICA,I10,"(1658, 1756)","Urine collection, morning aldosterone levels, renal levels, and a 24-hour urine were also ordered.",1658,1756
+734,240624132715029CHBICA,I10,"(1792, 1852)",Prescription for Cardura 4 mg once a day provided as well.,1792,1852
+735,240624132715029CHBICA,I10,"(1792, 1852)",Referral to nutritionist provided.,1757,1791
+736,240624132716049FBBDIG,R51.9,"(893, 1003)",On exam she has tension and tightness in her paraspinal muscles as well likely due to working at the computer.,893,1003
+737,240624132716049FBBDIG,R51.9,"(1161, 1266)",I explained that her headaches may be caused by tension around the muscles around her neck and shoulders.,1161,1266
+738,240624132716049FBBDIG,R51.9,"(1403, 1470)",- Medical Treatment: She can continue to take Tylenol for the pain.,1403,1470
+739,240624132716049FBBDIG,R51.9,"(1471, 1538)",Prescription for Flexeril 5 mg 3 times a day is provided as well.,1471,1538
+740,240624132716049FBBDIG,E11.9,"(1866, 1935)",- Medical Treatment: She will continue taking metformin 500 mg daily.,1866,1935
+741,240624132716049FBBDIG,E11.9,"(1936, 1990)","Order for hemoglobin A1c, CBC, and CMP provided today.",1936,1990
+742,240624132716049FBBDIG,E11.9,"(1991, 2083)",She will check her blood sugar daily and will bring that information in on her next visit.,1991,2083
+743,240624132717053EHBFDF,J02.9,"(1417, 1549)","- Medical Reasoning: The patient has experienced sore throat, fever, chills, profuse sweating, and difficulty swallowing for 4 days.",1417,1549
+744,240624132717053EHBFDF,J02.9,"(1550, 1702)","There is erythema and edema of the peritonsillar space with exudates present bilaterally as well as edema and erythema of her turbinates, bilaterally.",1550,1702
+745,240624132717053EHBFDF,J02.9,"(1822, 1884)",- Medical Treatment: We will perform a rapid strep test today.,1822,1884
+746,240624132717053EHBFDF,J02.9,"(1885, 1977)","If she is positive for strep, I will prescribe amoxicillin 500 mg 3 times a day for 10 days.",1885,1977
+747,240624132717053EHBFDF,J02.9,"(1978, 2048)",Prescription for lidocaine swish and swallow provided for pain relief.,1978,2048
+748,240624132717053EHBFDF,J02.9,"(2049, 2105)",ibuprofen can also be taken for pain and fever relief.,2049,2105
+749,240624132717053EHBFDF,I10,"(2423, 2487)",Prescription for lisinopril 40 mg once a day is also provided.,2423,2487
+750,240624132717053EHBFDF,E11.9,"(2614, 2699)","She is already at 1000 mg of metformin twice a day, which she does take with meals.",2614,2699
+751,240624132717053EHBFDF,E11.9,"(2845, 2908)",- Medical Treatment: I have placed an order a hemoglobin A1c.,2845,2908
+752,240624132718041CHGFEE,S93.401A,"(1600, 1716)",MSK: Examination of the right ankle: Ecchymosis over the lateral malleolus associated with trace edema in that area.,1600,1716
+753,240624132718041CHGFEE,S93.401A,"(1717, 1776)",Tenderness to palpation over the anterolateral soft tissue.,1717,1776
+754,240624132718041CHGFEE,S93.401A,"(2119, 2333)","After reviewing the patient's examination and radiographic findings today, her symptoms are consistent with a right ankle sprain of the lateral ligament complex, more specifically the anterior talofibular ligament.",2119,2333
+755,240624132718041CHGFEE,S93.401A,"(2427, 2515)",I advised her to keep her leg elevated when she is seated and continue to ice her ankle.,2427,2515
+756,240624132718041CHGFEE,S93.401A,"(2516, 2605)",She should also continue taking ibuprofen as-needed for pain and inflammation management.,2516,2605
+757,240624132718041CHGFEE,S93.401A,"(2606, 2766)","She will be placed in an Aircast to help stabilize her ankle, and I am going to order crutches so she can remain non-weight-bearing for the next couple of days.",2606,2766
+758,240624132719057ABCDCF,F17.210,"(897, 939)",He is currently smoking 1.5 packs per day.,897,939
+759,240624132719057ABCDCF,F17.210,"(1293, 1348)",He received handouts today for common smoking triggers.,1293,1348
+760,240624132719057ABCDCF,F17.210,"(1807, 1921)","On that day, I am going to start him with a 21 mg nicotine patch, and the goal will be to decrease that over time.",1807,1921
+761,240624132719057ABCDCF,E11.9,"(2426, 2495)",- Medical Treatment: We will continue to monitor his type 2 diabetes.,2426,2495
+762,240624132719057ABCDCF,E11.9,"(2496, 2569)",Hemoglobin A1c is ordered to be completed by his next visit in 2 weeks.,2496,2569
+763,240624132719057ABCDCF,M1A.90,"(2636, 2761)",- Patient Education and Counseling: I advised him to continue to watch for foods that will exacerbate his uric acid levels.,2636,2761
+764,240624132719057ABCDCF,M1A.90,"(2761, 2817)",- Medical Treatment: He will continue his allopurinol.,2761,2817
+765,240624132720030FACEFI,M22.2X2,"(1511, 1736)","- Medical Treatment: Continue with over-the-counter NSAIDs for pain relief We are going to refer her to physical therapy to help strengthen her lower extremities, increase mobility, and demonstrate proper running mechanics.",1511,1736
+766,240624132721032FBEECH,S83.91A,"(1452, 1597)","- Medical Treatment: She will take Tylenol 500 mg, 2 tablets, and ibuprofen 200 mg, 2 tablets, 3 times daily to reduce her pain and inflammation.",1452,1597
+767,240624132721032FBEECH,S83.91A,"(1598, 1745)","We will also refer her to physical therapy to help strengthen her lower extremities, work on her balance, and demonstrate proper running exercises.",1598,1745
+768,240624132722044EAEIFA,C56.9,"(1189, 1369)",- Patient Education and Counseling: I explained to the patient that the typical approach to treating this stage of cancer is surgical intervention followed by adjunct chemotherapy.,1189,1369
+769,240624132722044EAEIFA,C56.9,"(1673, 1780)","- Medical Treatment: I want to start by ordering several blood tests including a CA-125, hCG, AFP, and LDH.",1673,1780
+770,240624132722044EAEIFA,C56.9,"(1913, 2039)","I recommend we perform a hysterectomy and oophorectomy, as well as a lymph node dissection to remove any involved lymph nodes.",1913,2039
+771,240624132722044EAEIFA,C56.9,"(2114, 2215)","After she has recovered from surgery, she will start chemotherapy treatment with cisplatin and Taxol.",2114,2215
+772,240624132723033IBBCBA,R39.198,"(1357, 1466)",We will also refer him to a urologist for further evaluation as well as order a urinalysis and urine culture.,1357,1466
+773,240624132723033IBBCBA,R39.198,"(1467, 1537)",We will start him on Flomax 0.4 mg once at night to avoid dizziness.,1467,1537
+774,240624132723033IBBCBA,I25.10,"(1566, 1671)",- Medical Reasoning: The patient had a 3/6 systolic ejection murmur heard at the left base on exam today.,1566,1671
+775,240624132723033IBBCBA,I25.10,"(1719, 1799)",- Medical Treatment: We will order an echocardiogram to follow up on his murmur.,1719,1799
+776,240624132723033IBBCBA,E11.9,"(1988, 2063)",- Medical Treatment: We will continue him on metformin 1000 mg twice a day.,1988,2063
+777,240624132723033IBBCBA,E11.9,"(2064, 2147)",A hemoglobin A1c will be ordered to see if any medication adjustments are needed.,2064,2147
+778,240624132724055ADDFIF,S93.324A,"(1030, 1085)",Bruising of the plantar and dorsal aspects of the foot.,1030,1085
+779,240624132724055ADDFIF,S93.324A,"(1147, 1202)",Positive piano key test of the 1st and 2nd metatarsals.,1147,1202
+780,240624132724055ADDFIF,S93.324A,"(1147, 1202)",Associated swelling.,1086,1106
+781,240624132724055ADDFIF,S93.324A,"(1147, 1202)",Tenderness to palpation of the midfoot.,1107,1146
+782,240624132724055ADDFIF,S93.324A,"(1459, 1592)",These reveal subtle dorsal displacement of the base of the 2nd metatarsal with a 3 mm separation of the 1st and 2nd metatarsal bases.,1459,1592
+783,240624132724055ADDFIF,S93.324A,"(1593, 1664)",There is the presence of a bony fragment in the Lisfranc joint space.,1593,1664
+784,240624132724055ADDFIF,S93.324A,"(2074, 2149)",The plan is to proceed with a right foot ORIF and all indicated procedures.,2074,2149
+785,240624132725042FHCFCD,N20.0,"(1361, 1471)",- Medical Treatment: Prescription for oxycodone 5 mg every 6 to 8 hours as needed for pain was provided today.,1361,1471
+786,240624132725042FHCFCD,N20.0,"(1472, 1517)",Tylenol is recommended for breakthrough pain.,1472,1517
+787,240624132725042FHCFCD,N20.0,"(1584, 1654)",Referral to urology was also provided due to her recurrent episodes.,1584,1654
+788,240624132725042FHCFCD,N20.0,"(1584, 1654)",She will push fluids and has been provided with a urine strainer.,1518,1583
+789,240624132725042FHCFCD,I10,"(2097, 2142)",- Medical Treatment: Continue Norvasc 2.5 mg.,2097,2142
+790,240624132725042FHCFCD,I10,"(2206, 2243)",Limit salt intake to 2300 mg daily.,2206,2243
+791,240624132725042FHCFCD,I10,"(2206, 2243)",Continue with home blood pressure monitoring 3 times per week.,2143,2205
+792,240624132726044EGGHEF,N20.1,"(1344, 1450)",The CT scan of the abdomen revealed a stone that is measuring 0.5 cm located in the proximal right ureter.,1344,1450
+793,240624132726044EGGHEF,N20.1,"(1646, 1719)",I have prescribed the patient oxycodone 5 mg every 6 to 8 hours for pain.,1646,1719
+794,240624132726044EGGHEF,N20.1,"(1720, 1806)",He may continue to take Tylenol between the oxycodone doses for any breakthrough pain.,1720,1806
+795,240624132726044EGGHEF,N20.1,"(1807, 1895)",The patient should continue to use the strainer when he urinates until the stone passes.,1807,1895
+796,240624132727042FEHHII,I25.10,"(1192, 1230)",He sustained a heart attack in 2018.,1192,1230
+797,240624132727042FEHHII,I25.10,"(1248, 1322)",Patient reports undergoing stent placement at the right coronary artery.,1248,1322
+798,240624132727042FEHHII,E11.9,"(1562, 1619)",Patient reports taking aspirin 81 mg daily and insulin.,1562,1619
+799,240624132727042FEHHII,L97.519,"(2201, 2314)",There is a 2 x 3 cm ulcerated lesion on the right lateral foot near the 5th metacarpal metatarsophalangeal joint.,2201,2314
+800,240624132727042FEHHII,L97.519,"(2381, 2472)",There is associated granulation tissue and some slight purulent discharge from the wound.,2381,2472
+801,240624132727042FEHHII,L97.519,"(3192, 3302)","At this time, I have recommended continued wound care and for him to also continue taking aspirin 81 mg daily.",3192,3302
+802,240624132727042FEHHII,I25.10,"(3192, 3302)","At this time, I have recommended continued wound care and for him to also continue taking aspirin 81 mg daily.",3192,3302
+803,240624132727042FEHHII,L97.519,"(3303, 3365)",We will order an arterial ultrasound of the lower extremities.,3303,3365
+804,240624132727042FEHHII,L97.519,"(3366, 3419)",He will also be referred to podiatry for a consult.,3366,3419
+805,240624132727042FEHHII,E11.9,"(3419, 3592)","Regarding his diabetes, this appears to be unstable as the patient reports his last hemoglobin a1c was greater than 9 and is now experiencing a non-healing right foot ulcer.",3419,3592
+806,240624132727042FEHHII,E11.9,"(3593, 3682)",We discussed the importance of blood sugar control as this will impact his wound healing.,3593,3682
+807,240624132727042FEHHII,I25.10,"(3844, 3912)",It is recommended that he continue to take his statin as prescribed.,3844,3912
+808,240624132728034IHGADI,N20.1,"(1217, 1350)","CT scan of the abdomen was reviewed today and revealed a kidney stone measuring 0.5 cm in size, located in the proximal right ureter.",1217,1350
+809,240624132728034IHGADI,N20.1,"(1538, 1610)",The CT scan revealed a 0.5 cm kidney stone in the proximal right ureter.,1538,1610
+810,240624132728034IHGADI,N20.1,"(1714, 1797)",She was provided with a urine strainer so she can see if and when the stone passes.,1714,1797
+811,240624132728034IHGADI,N20.1,"(1798, 1947)","Given that over-the-counter ibuprofen is not providing significant relief, we will send in a prescription for ibuprofen 800 mg to help with her pain.",1798,1947
+812,240624132728034IHGADI,N20.1,"(2155, 2261)","If she is still symptomatic at that time, we may need to consider further treatment such as a lithotripsy.",2155,2261
+813,240624132729078FFBFEF,L40.9,"(341, 394)","Scalp reveals demarcated scaly, erythematous plaques.",341,394
+814,240624132729078FFBFEF,L40.9,"(815, 900)",- Medical Treatment: Prescription for clobetasol 0.05% solution twice daily provided.,815,900
+815,240624132729078FFBFEF,L40.9,"(933, 995)",Prescription for steroids provided to be used for flare ups.,933,995
+816,240624132729078FFBFEF,L40.9,"(933, 995)",Continuing using T/Gel shampoo.,901,932
+817,240624132730050GEBFHD,S93.324A,"(1755, 1814)",An x-ray of the right foot was obtained and reviewed today.,1755,1814
+818,240624132730050GEBFHD,S93.324A,"(1815, 1977)",It demonstrates dorsal displacement of the base of the 2nd metatarsal with a 3 mm separation of the 1st and 2nd metatarsal bases and presence of bony fragments.,1815,1977
+819,240624132730050GEBFHD,S93.324A,"(2189, 2311)",We discussed treatment options and I have recommended that we proceed with a right foot ORIF and all indicated procedures.,2189,2311
+820,240624132730050GEBFHD,S93.324A,"(2586, 2683)",I explained that he will be placed in a cast and will remain non-weight-bearing for 6 to 8 weeks.,2586,2683
+821,240624132730050GEBFHD,S93.324A,"(2684, 2813)",He will use crutches while ambulating and we will advance his weight-bearing gradually based on how he tolerates the procedure.,2684,2813
+822,240624132730050GEBFHD,S93.324A,"(2813, 2909)",I have also recommended that we obtain an MRI of the right foot to further assess the ligaments.,2813,2909
+823,240624132731048FCDCBC,F95.0,"(1163, 1279)",I advised eye tics are very common in children and as many as 1 in 5 children have a tick during their school years.,1163,1279
+824,240624132733030AEBACG,M20.21,"(1430, 1431)",X,1430,1431
+825,240624132733030AEBACG,M20.21,"(1560, 1619)",There is a loss of cartilage with some arthritis present.,1560,1619
+826,240624132733030AEBACG,M20.21,"(1560, 1619)",-ray of the right great toe taken today in office reveals a large bone spur on the anterior aspect of the right great toe joint.,1431,1559
+827,240624132733030AEBACG,M20.21,"(1890, 2027)",We discussed treatment options for this and I have recommended that we begin with conservative treatment in the form of custom orthotics.,1890,2027
+828,240624132733030AEBACG,M20.21,"(2028, 2102)",I have also prescribed the patient meloxicam once a day to treat the pain.,2028,2102
+829,240624132734081AFHHCD,I34.0,"(996, 1057)","Grade 3/6 systolic ejection murmur, heard at the left base.",996,1057
+830,240624132734081AFHHCD,I25.10,"(1778, 1878)",- Medical Treatment: Continue taking aspirin 81 mg daily Continue taking Brilinta 90 mg twice a day.,1778,1878
+831,240624132734081AFHHCD,I25.10,"(1952, 1988)",I will refer him to cardiac rehab.,1952,1988
+832,240624132734081AFHHCD,I25.10,"(1952, 1988)",Continue taking Lipitor 80 mg daily.,1879,1915
+833,240624132734081AFHHCD,I25.10,"(1952, 1988)",Continue taking Toprol 50 mg daily.,1916,1951
+834,240624132734081AFHHCD,I34.0,"(2465, 2525)",- Medical Treatment: Continue taking lisinopril 20 mg a day.,2465,2525
+835,240624132734081AFHHCD,I34.0,"(2602, 2662)",Repeat echocardiogram ordered to be completed in 2 months.,2602,2662
+836,240624132734081AFHHCD,I34.0,"(2602, 2662)",Prescription for Aldactone 12.5 mg daily provided.,2526,2576
+837,240624132734081AFHHCD,I34.0,"(2602, 2662)",Order for labs provided.,2577,2601
+838,240624132734081AFHHCD,I10,"(2734, 2797)",- Medical Treatment: Continue home blood pressure monitoring.,2734,2797
+839,240624132735048AGDGFC,J45.909,"(364, 428)","Patient reports using an albuterol inhaler, 2 puffs as needed.",364,428
+840,240624132735048AGDGFC,J45.909,"(984, 1080)",- Medical Reasoning: The patient has experienced an increased need to use her albuterol inhaler.,984,1080
+841,240624132735048AGDGFC,J45.909,"(1519, 1565)",She can continue to use the albuterol inhaler.,1519,1565
+842,240624132735048AGDGFC,J45.909,"(1566, 1616)",We will start her on Singulair in about a month.,1566,1616
+843,240624132736056DHCDGB,S93.325A,"(2084, 2217)",These reveal subtle dorsal displacement of the base of the 2nd metatarsal with a 3 mm separation of the 1st and 2nd metatarsal bases.,2084,2217
+844,240624132736056DHCDGB,S93.325A,"(2218, 2285)",There is presence of a bony fragment in the Lisfranc joint space.,2218,2285
+845,240624132736056DHCDGB,S93.325A,"(2382, 2541)","Based on her exam and x-ray findings, she will most likely require surgery of the left foot, but I want to order an MRI to assess for any ligamentous injuries.",2382,2541
+846,240624132737079CCBAAG,M25.561,"(1664, 1752)",I have prescribed the patient meloxicam 15 mg once a day to treat the pain and swelling.,1664,1752
+847,240624132737079CCBAAG,M25.561,"(1831, 1932)",I have also recommended that the patient attend formal physical therapy to strengthen her right knee.,1831,1932
+848,240624132737079CCBAAG,M25.561,"(1933, 2032)",I have also advised her to continue to use the ACE wrap and wear a right knee brace for a few days.,1933,2032
+849,240624132738056BIIEHE,K20.90,"(1855, 1958)",I have prescribed the patient Protonix 40 mg first thing in the morning to treat his acute esophagitis.,1855,1958
+850,240624132738056BIIEHE,K20.90,"(1959, 2089)",I have also prescribed the patient Carafate 1 gram 4 times daily for 1 month to help coat the lining of his esophagus and stomach.,1959,2089
+851,240624132738056BIIEHE,K20.90,"(2090, 2145)",I recommended a upper endoscopy for further evaluation.,2090,2145
+852,240624132738056BIIEHE,K20.90,"(2146, 2221)","I have also advised him to change his diet, decrease alcohol, and caffeine.",2146,2221
+853,240624132739060HGCDHD,I50.9,"(350, 395)",Constitutional: Reports 10 pound weight gain.,350,395
+854,240624132739060HGCDHD,I50.9,"(460, 512)",Respiratory: Reports orthopnea and productive cough.,460,512
+855,240624132739060HGCDHD,I50.9,"(849, 858)",Mild JVD.,849,858
+856,240624132739060HGCDHD,I50.9,"(1210, 1268)",Examination: 1.5+ pitting edema in the ankles bilaterally.,1210,1268
+857,240624132739060HGCDHD,E11.9,"(1428, 1448)",Hemoglobin A1c:7.5,1428,1448
+858,240624132739060HGCDHD,E11.9,"(1982, 2056)",- Medical Reasoning: Her recent blood glucose levels have been elevated.,1982,2056
+859,240624132739060HGCDHD,E11.9,"(2175, 2289)",- Medical Treatment: We are going to order a repeat hemoglobin A1c and adjust her dose of metformin accordingly.,2175,2289
+860,240624132739060HGCDHD,M54.9,"(2364, 2516)",- Patient Education and Counseling: We discussed exercises she can do to help her pain and that ff this doesn't help we can consider physical therapy.,2364,2516
+861,240624132739060HGCDHD,M54.9,"(2516, 2588)",- Medical Treatment: Prescriptions provided for Naprosyn and Flexeril.,2516,2588
+862,240624132740092FHEFFA,S83.422A,"(1934, 1992)",At this time he will continue to follow the RICE protocol.,1934,1992
+863,240624132740092FHEFFA,S83.422A,"(1993, 2057)",He will continue to take NSAIDs as needed for pain and swelling.,1993,2057
+864,240624132740092FHEFFA,S83.422A,"(2058, 2189)",He will also be placed into an Aircast for ankle stabilization and will be provided crutches in order to remain non-weight-bearing.,2058,2189
+865,240624132741140ICDDCC,S93.401A,"(1412, 1519)",MSK: Examination of the right ankle reveals ecchymosis over the lateral malleolus associated with swelling.,1412,1519
+866,240624132741140ICDDCC,S93.401A,"(1520, 1579)",Tenderness to palpation anterolaterally in the soft tissue.,1520,1579
+867,240624132741140ICDDCC,S93.401A,"(2190, 2304)",I have also advised her to ice her right ankle 5 times per day for 20 minutes at a time to help with the swelling.,2190,2304
+868,240624132741140ICDDCC,S93.401A,"(2305, 2393)",I have also recommended that the patient be placed in an Aircast to stabilize the ankle.,2305,2393
+869,240624132741140ICDDCC,S93.401A,"(2394, 2536)","She will remain non-weight-bearing for 1 to 2 days, we provided her with crutches today, and then she can begin weight-bearing as tolerated.",2394,2536
+870,240624132742038EGHBFH,M54.9,"(1269, 1376)",- Medical Treatment: I am going to start him on Naprosyn 500 mg twice a day and Flexeril 10 mg twice a day.,1269,1376
+871,240624132742038EGHBFH,M54.9,"(1377, 1474)",I will refer him for physical therapy to help strengthen some of the muscles in his lower back.,1377,1474
+872,240624132742038EGHBFH,E11.9,"(1633, 1741)",- Medical Reasoning: His most recent A1c was 7.1 and his blood sugar levels are typically between 120-140.,1633,1741
+873,240624132742038EGHBFH,E11.9,"(1816, 1889)",- Medical Treatment: He will continue the metformin 500 mg twice a day.,1816,1889
+874,240624132742038EGHBFH,E11.9,"(1889, 1956)",- Additional Testing: I am going to order another hemoglobin A1c.,1889,1956
+875,240624132742038EGHBFH,I10,"(2166, 2299)",- Medical Treatment: The patient will discontinue the use of Norvasc and we will start him on hydrochlorothiazide 10 mg once a day.,2166,2299
+876,240624132742038EGHBFH,I10,"(2349, 2417)","Additionally, I will order a repeat EKG, as well as a chest x-ray.",2349,2417
+877,240624132743037FFCBFB,S83.521A,"(1791, 1841)",MSK: Examination of the right knee: Mild effusion.,1791,1841
+878,240624132743037FFCBFB,S83.521A,"(1887, 1941)","Pain with dorsiflexion, but not with plantarflexion.",1887,1941
+879,240624132743037FFCBFB,S83.521A,"(1887, 1941)",The patient ambulated with an antalgic gait.,1842,1886
+880,240624132743037FFCBFB,S83.521A,"(2300, 2379)",I have explained to her that her x-rays did not reveal any signs of a fracture.,2300,2379
+881,240624132743037FFCBFB,S83.521A,"(2464, 2551)",We will initiate formal physical therapy 3 times per week to strengthen her right knee.,2464,2551
+882,240624132743037FFCBFB,S83.521A,"(2552, 2655)","Additionally, I have prescribed the patient meloxicam 15 mg and ibuprofen 800 mg twice daily as needed.",2552,2655
