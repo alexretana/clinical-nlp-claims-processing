@@ -4,4 +4,33 @@
 *.chat
 .jupyter_ystore.db
 
+# Jupyter notebook checkpoints
 /notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Model outputs and checkpoints
+/models/
+models/
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyTorch model files
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Hugging Face cache
+.cache/
+transformers_cache/
