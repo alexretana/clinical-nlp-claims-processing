@@ -1,0 +1,2 @@
+model,evaluation_approach,score_threshold,filtering,unique_documents,unique_codes,coverage,exact_match_accuracy,macro_precision,macro_recall,macro_f1,micro_precision,micro_recall,micro_f1,mean_jaccard
+AWS Comprehend Medical (FIXED),Multi-label (document-level),0.5,"NEGATION, HYPOTHETICAL, PERTAINS_TO_FAMILY filtered",184,158,0.9728260869565217,0.010869565217391304,0.20616508881516035,0.5986413043478261,0.2708147759974144,0.15493910690121787,0.6361111111111111,0.24918389553862896,0.18252724789790767
