@@ -40,6 +40,7 @@ dependencies = [
     "hf-xet>=1.2.0",
     "accelerate>=1.11.0",
     "seqeval>=1.2.2",
+    "peft>=0.17.1",
 ]
 
 [dependency-groups]

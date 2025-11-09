@@ -1,0 +1,11 @@
+metric,value
+eval_loss,0.22556431591510773
+eval_accuracy,0.9444444444444444
+eval_macro_f1,0.9442724458204335
+eval_weighted_f1,0.9446164430684555
+eval_macro_precision,0.9444444444444444
+eval_macro_recall,0.95
+eval_runtime,8.0477
+eval_samples_per_second,4.473
+eval_steps_per_second,0.373
+epoch,15.0
