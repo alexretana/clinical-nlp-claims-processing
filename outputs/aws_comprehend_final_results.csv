@@ -1,0 +1,2 @@
+model,evaluation_approach,total_test_samples,samples_with_predictions,unique_documents,unique_codes,coverage,recall_at_1,recall_at_3,recall_at_5,recall_at_10,top1_accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted
+AWS Comprehend Medical,All ICD-10 codes (no filtering),360,360,184,158,1.0,0.05277777777777778,0.19444444444444445,0.3472222222222222,0.3611111111111111,0.05277777777777778,0.04277833367277364,0.04270702183312349,0.03657528083003537,0.10268069703001209,0.05277777777777778,0.050818814713551555

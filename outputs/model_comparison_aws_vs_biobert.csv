@@ -1,0 +1,3 @@
+Model,Accuracy,Precision (Macro),Recall (Macro),F1 Score (Macro),Training Required,Setup Time,Data Filtering
+BioBERT (Fine-tuned),0.9444444444444444,0.9444444444444444,0.95,0.9442724458204336,Yes (1-3 hrs),2-4 hours,Yes (≥80 samples)
+AWS Comprehend Medical,0.05277777777777778,0.04277833367277364,0.04270702183312349,0.03657528083003537,No,10 minutes,No (all codes)
