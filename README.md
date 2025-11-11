@@ -24,6 +24,32 @@ This project demonstrates two approaches to automated medical coding from clinic
 
 The goal is to compare custom fine-tuning approaches with commercial medical NLP services and identify the most effective strategy for automated claims processing.
 
+### High-Level Workflow
+
+```mermaid
+graph TB
+    A[Clinical Text Document] --> B{Approach Selection}
+    B -->|Custom Model| C[BioBERT Fine-Tuning Pipeline]
+    B -->|Commercial API| D[AWS Comprehend Medical]
+    
+    C --> C1[Evidence Extraction]
+    C1 --> C2[Data Augmentation]
+    C2 --> C3[LoRA Fine-Tuning]
+    C3 --> C4[ICD-10 Predictions]
+    
+    D --> D1[Entity Detection]
+    D1 --> D2[Trait Filtering]
+    D2 --> D3[Confidence Thresholding]
+    D3 --> D4[ICD-10 Predictions]
+    
+    C4 --> E[Evaluation & Comparison]
+    D4 --> E
+    
+    style C fill:#e1f5ff
+    style D fill:#fff4e1
+    style E fill:#e8f5e9
+```
+
 ## 📊 Dataset
 
 ### MedCodER Dataset
@@ -67,6 +93,25 @@ clinical-nlp-claims-processing/
 
 **Notebook**: [`01_BioBERT_Fine-Tuning_NLP.ipynb`](notebooks/01_BioBERT_Fine-Tuning_NLP.ipynb)
 
+#### Pipeline Architecture
+
+```mermaid
+flowchart LR
+    A[MedCodER Dataset] --> B[Evidence Extraction]
+    B --> C[Label Filtering<br/>≥80 examples]
+    C --> D[Back-Translation<br/>Augmentation]
+    D --> E[Train/Val Split<br/>80/20]
+    E --> F[BioBERT Tokenization]
+    F --> G[LoRA Fine-Tuning]
+    G --> H[Evaluation]
+    H --> I[Results:<br/>94.4% F1]
+    
+    style A fill:#f9f9f9
+    style D fill:#e3f2fd
+    style G fill:#fff3e0
+    style I fill:#e8f5e9
+```
+
 #### Preprocessing & Data Decisions
 
 **Challenge**: Training on full 2000+ character documents dilutes diagnostic signals and creates computational challenges.
@@ -94,14 +139,49 @@ clinical-nlp-claims-processing/
 **Challenge**: Standard fine-tuning of 110M parameters leads to severe overfitting on small datasets.
 
 **Solution**: Parameter-efficient fine-tuning with LoRA
+
+```mermaid
+graph TB
+    subgraph "BioBERT Model (110M params)"
+        A[Input: Evidence Text] --> B[Tokenization]
+        B --> C[BERT Embeddings]
+        C --> D[12 Transformer Layers]
+        D --> E[Classification Head]
+        E --> F[18 ICD-10 Codes]
+    end
+    
+    subgraph "LoRA Adaptation"
+        D -->|Low-Rank| G[Query LoRA<br/>r=8]
+        D -->|Low-Rank| H[Value LoRA<br/>r=8]
+        G --> D
+        H --> D
+    end
+    
+    subgraph "Training Config"
+        I[Class Weights<br/>Balanced Loss]
+        J[Learning Rate<br/>2e-4]
+        K[Batch Size: 16<br/>Epochs: 15]
+    end
+    
+    I -.-> E
+    J -.-> G
+    J -.-> H
+    K -.-> E
+    
+    style D fill:#e3f2fd
+    style G fill:#fff3e0
+    style H fill:#fff3e0
+    style F fill:#e8f5e9
+```
+
 - **Architecture**: BioBERT-v1.1 (domain-adapted BERT for biomedical text)
-- **LoRA Configuration**: 
+- **LoRA Configuration**:
   - Rank (r): 8
   - Alpha: 16
   - Target modules: Query & Value attention layers
   - **Trainable parameters**: Only 0.1% of total parameters
 - **Class Weighting**: Balanced loss function to handle remaining imbalance
-- **Optimization**: 
+- **Optimization**:
   - Learning rate: 2e-4 (higher for LoRA)
   - Batch size: 16
   - Epochs: 15
@@ -127,6 +207,45 @@ clinical-nlp-claims-processing/
 ### 2. AWS Comprehend Medical
 
 **Notebook**: [`02_AWS_Comprehend_Medical.ipynb`](notebooks/02_AWS_Comprehend_Medical.ipynb)
+
+#### Pipeline Architecture
+
+```mermaid
+flowchart TD
+    A[Clinical Text] --> B[AWS Comprehend<br/>InferICD10CM API]
+    B --> C{Entity Detection}
+    
+    C --> D1[Entity 1]
+    C --> D2[Entity 2]
+    C --> D3[Entity N...]
+    
+    D1 --> E1{Trait Filtering}
+    D2 --> E2{Trait Filtering}
+    D3 --> E3{Trait Filtering}
+    
+    E1 -->|NEGATION?| F1[❌ Filter]
+    E1 -->|HYPOTHETICAL?| F2[❌ Filter]
+    E1 -->|FAMILY?| F3[❌ Filter]
+    E1 -->|DIAGNOSIS ✓| G1[✓ Keep]
+    
+    E2 --> G2[Filter/Keep]
+    E3 --> G3[Filter/Keep]
+    
+    G1 --> H{Confidence<br/>Threshold}
+    G2 --> H
+    G3 --> H
+    
+    H -->|Score ≥ 0.5| I[Valid ICD-10 Code]
+    H -->|Score < 0.5| J[❌ Discard]
+    
+    I --> K[Multi-Label<br/>Document Evaluation]
+    K --> L[Metrics:<br/>Precision, Recall, F1]
+    
+    style B fill:#fff4e1
+    style E1 fill:#e3f2fd
+    style H fill:#fff3e0
+    style L fill:#e8f5e9
+```
 
 #### Preprocessing & Configuration
 
@@ -334,20 +453,49 @@ Key packages (see [`pyproject.toml`](pyproject.toml) for full list):
 
 ### Hybrid Approaches
 
-1. **BioBERT for Frequent + AWS for Rare**: 
+```mermaid
+graph TB
+    A[Clinical Document] --> B{Code Frequency?}
+    
+    B -->|Frequent<br/>≥80 examples| C[BioBERT Model]
+    B -->|Rare<br/><80 examples| D[AWS Comprehend]
+    
+    C --> E[High Confidence<br/>Prediction]
+    D --> F{Confidence Check}
+    
+    F -->|High| G[Accept]
+    F -->|Low| H[Human Review]
+    
+    E --> I[Final ICD-10 Codes]
+    G --> I
+    H --> I
+    
+    subgraph "Hybrid Strategy"
+        J[Combine Strengths:<br/>- BioBERT for accuracy<br/>- AWS for coverage<br/>- Human for edge cases]
+    end
+    
+    I -.-> J
+    
+    style C fill:#e3f2fd
+    style D fill:#fff4e1
+    style I fill:#e8f5e9
+    style J fill:#f3e5f5
+```
+
+1. **BioBERT for Frequent + AWS for Rare**:
    - Use fine-tuned model for codes with training data
    - Fall back to AWS for zero-shot rare codes
 
-2. **AWS as Feature Extractor**: 
+2. **AWS as Feature Extractor**:
    - Use AWS entities as additional features
    - Train lightweight classifier on top
 
-3. **Active Learning Pipeline**: 
+3. **Active Learning Pipeline**:
    - Use AWS for initial predictions
    - Human-in-the-loop for uncertain cases
    - Continuously retrain BioBERT
 
-4. **Multi-Model Ensemble**: 
+4. **Multi-Model Ensemble**:
    - Combine predictions from BioBERT and AWS
    - Voting or stacking strategies
 
